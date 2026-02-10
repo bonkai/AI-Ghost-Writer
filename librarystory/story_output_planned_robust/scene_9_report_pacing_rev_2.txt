@@ -1,0 +1,12 @@
+*   **Initial Slow Build:** The opening exchanges (paragraphs 1-4) are *very* exposition-heavy. While establishing the setting and core concept is necessary, the pacing feels static. The descriptions, while evocative, don't immediately translate into rising tension.
+*   **Question/Answer Rhythm:** The scene relies heavily on Seris asking questions and Kaelen responding. This creates a predictable rhythm that, while functional, doesn’t inherently *build* tension. It feels more like an information dump than a dynamic exchange.
+*   **Tension Peaks & Valleys:** The scene lacks significant tension peaks. The extinguishing of the candle (paragraph 10) is a good attempt, but it’s quickly followed by more exposition. The spectral image (paragraph 12) is the strongest moment, but it’s fleeting.
+*   **Late Scene Momentum:** The final three paragraphs (13-15) are the strongest in terms of pacing and tension. The sense of dread and the final word ("Remember") create a compelling cliffhanger. However, the scene takes too long to reach this point.
+*   **Hook/Transition:** The ending is effective, but the scene could benefit from a more immediate hook. Starting *in media res*—perhaps with the loose stone falling or the candle extinguishing—could immediately draw the reader in.
+
+**Suggestions:**
+
+*   **Interweave Action/Reaction:** Break up the Q&A with more of Seris *reacting* to the information. Show her physical responses (fear, confusion, determination) to create a more visceral experience.
+*   **Raise Stakes Earlier:** Hint at the immediate danger to Seris earlier in the scene. The threat of the Church feels distant until the very end.
+*   **Tighten Exposition:** Condense some of the exposition and deliver it through action or dialogue rather than lengthy explanations.
+*   **Increase Sensory Detail:** Use more sensory details (smell, sound, touch) to create a more immersive and suspenseful atmosphere.

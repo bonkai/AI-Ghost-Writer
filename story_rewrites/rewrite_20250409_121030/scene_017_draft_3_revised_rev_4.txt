@@ -1,0 +1,45 @@
+Okay, excellent! Here's the revised Scene 17, incorporating your feedback on Draft 2. I've focused on the minor suggestions, adding a touch more internal state for Leo and a little more detail to the red line. I've also slightly adjusted the pacing to emphasize the growing urgency.
+
+---
+
+## Scene 17: Echoes in the Machine
+
+The air hung thick with recycled oxygen and the scent of ozone. Anya traced a finger across the holographic projection of the ruined city, dust motes swirling in the blue light. Not dust, she corrected herself, but residual data – echoes of a past the machines desperately tried to erase. Kai stood beside her, his gaze fixed on a flickering anomaly within the projection.
+
+“The energy signature… it matches the readings from the outer perimeter,” he said, his voice barely a whisper. “Whatever caused this… it wasn’t natural.”
+
+Anya nodded, her attention already drifting to the complex network of symbols etched onto the console. They weren’t part of any standard system architecture. “These aren’t maintenance codes, Kai. They’re… keys. Or at least, they *were*. The data’s fragmented, corrupted.” She ran a diagnostic scan, the console humming in response. "If this unlocks something, it's likely not something they *want* unlocked."
+
+Kai’s hand tightened on the console. “Kael, run a spectral analysis on these glyphs. Priority one.”
+
+A voice crackled over the comms. “Acknowledged, Anya. Running analysis now.”
+
+Anya continued, “The patterns… they’re similar to the terraforming project schematics, but… altered. Twisted.”
+
+“Terraforming?” Kai questioned. “That was centuries ago. Sealed away after the… incident.”
+
+“Exactly. Why would these symbols be linked to a failed terraforming project?” Anya tapped a command, bringing up a comparative analysis. “The alteration… it's deliberate. Someone actively changed these symbols, and then buried the data.”
+
+---
+
+Meanwhile, deep within the central control complex, Leo traced the energy surge on his monitors. It originated from the same sector as Anya’s findings. He’d dismissed it as a localized power fluctuation until the spectral analysis came back.
+
+“What the…” Leo’s breath hitched as the schematic resolved on his screen. He hadn’t seen those symbols in years, not since the restricted archives training. And they shouldn't be here. They were the key to the original terraforming project, specifically the atmospheric regulators. But these weren’t the clean, precise designs he remembered. They were… corrupted, overlaid with a chaotic network of lines.
+
+He magnified the image, running a recursive analysis. The symbols pulsed with a faint, internal light, like a dying ember. The energy surge wasn't a fluctuation. It was a signal. 
+
+“Central to Control, this is Leo,” he said, his voice tight with urgency. “I’m detecting a concentrated energy signature linked to the old terraforming project. And… I’m seeing glyphs. Corrupted glyphs. They match the symbols Anya is analyzing.”
+
+A crackle of static, then Kael’s voice. “Copy that, Leo. We’re seeing the same anomalies. The energy signature is growing exponentially.”
+
+On Leo’s main monitor, the schematic of the city shifted. A thin, crimson line appeared, tracing the network of underground conduits. It wasn't a steady line. It *flickered*, like a vein throbbing with dark energy. The line began to spread, branching out across the city grid, illuminating the pathways beneath the metal and concrete. It was a *bright*, almost incandescent red, and it seemed to *grow* with each passing second. 
+
+“Report,” Kael demanded. “What are we looking at?”
+
+Leo stared at the spreading crimson web, a cold dread creeping into his heart. “I… I don’t know. But it feels like the city is… bleeding.”
+
+
+
+---
+
+I'm eager to hear your feedback on this revision. Does the added detail and internal state enhance the tension and immersion? Do you think the pacing feels right, and does the final image of the "bleeding" city have the impact we're aiming for?

@@ -1,0 +1,11 @@
+*   **Internal Pacing:** The scene is *almost* entirely reactive. Leo receives information, analyzes, and then receives *more* information. This creates a consistent, but ultimately flat, rhythm. The repeated structure of “K-V reports data – Leo analyzes – more data” becomes predictable and slows momentum after the first few iterations. Paragraphs 1-4 feel particularly dense with description *before* any real tension emerges.
+*   **Tension Arc:** The tension *builds* effectively in terms of information revealed (the Seeker's purpose, the city), but the *internal* tension is muted by the lack of active conflict or immediate threat. The physiological readouts (heart rate, cortisol) are *telling* us Leo is stressed, but we don’t *feel* it as much as we should. The tension feels primarily intellectual rather than visceral. The final paragraph offers the strongest peak, but even that feels slightly delayed.
+*   **Hooks & Transitions:** The opening is solid, establishing the setting and Leo’s focus. However, the transitions between data reports and analysis are often abrupt, lacking connective tissue. This contributes to the flat pacing. The ending is a decent cliffhanger, but could be stronger with a more immediate, concrete threat or a more active decision from Leo.
+*   **Scene Significance:** The scene *delivers* on establishing the mystery of the Seeker and hinting at a larger, potentially dangerous, context. However, the prolonged analysis slows the narrative drive.
+
+**Suggestions:**
+
+*   **Interweave Action:** Introduce brief moments of *active* problem-solving or unexpected complications. Perhaps a system error, a security breach attempt, or a conflicting data stream.
+*   **Internal Conflict:** Give Leo more internal struggle. He's dismissing K-V's warnings, but *why*? Is he obsessed? Reckless? Driven by a past trauma?
+*   **Vary Sentence Structure:** The prose is consistently descriptive and analytical. Inject shorter, punchier sentences to create a sense of urgency.
+*   **Reduce Redundancy:** The repeated “Leo ignored” or “K-V reported” phrases become repetitive. Find ways to convey this information more subtly.

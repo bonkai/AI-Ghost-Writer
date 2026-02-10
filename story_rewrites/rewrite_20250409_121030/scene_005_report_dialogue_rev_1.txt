@@ -1,0 +1,13 @@
+*   **Authenticity & Voice:** Kael’s dialogue feels consistently pragmatic and wary, which is good. Anya’s leans a bit *too* consistently focused on the mystery, sometimes at the expense of acknowledging immediate danger (like when she ignores Kael about the Sky-Scavs *twice*). It makes her feel slightly oblivious, even for a dedicated investigator.
+*   **Subtext:** There’s a good start with the images being unsettlingly familiar, hinting at a lost history. However, Anya’s direct statements ("What have we forgotten?") feel a bit on-the-nose. Show, don’t tell. Perhaps a line about a phantom sensation, a fleeting emotional response to the images, would be more effective.
+*   **Efficiency & Purpose:** The repetition of Kael warning about the Sky-Scavs feels a bit redundant. Once established, his concern is clear. The dialogue with Seeker is functional but could be more concise. A lot of it is just reporting readings.
+*   **Flow & Rhythm:** Generally good, but Anya’s internal monologue (“What… what is this place?”) feels a bit drawn out. Shorten it. A single, impactful line would be stronger.
+*   **Indirect Characterization:** The contrast between Kael’s practical concerns and Anya’s obsession with the mystery effectively highlights their differing personalities.
+*   **Info-Dumps:** The description of the images (“sleek, futuristic product… smiling family… holographic display”) is a little too detailed for dialogue. Let the reader *infer* some of that from Anya’s reaction.
+
+**Suggestions for Rephrasing/Trimming:**
+
+*   **Anya (regarding the images):** Instead of "It’s like looking at something I *should* remember… but can’t. A life I never lived," try something like: “It… feels *wrong*. Like a memory that isn't mine.”
+*   **Kael:** Remove one instance of his Sky-Scav warning.
+*   **Seeker:** Condense Seeker’s reports. Focus on the *impact* of the readings on Seeker, rather than listing them. For example: "Seeker (V.O.): Systems failing. The energy… it’s rewriting my code."
+*   **Anya (final line):** Instead of "And why does it feel like… a warning?" try a single, chilling line: "It's not a memory. It's a threat."

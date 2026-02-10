@@ -1,0 +1,48 @@
+## Scene 3: Salvage and Static
+
+**Setting:** A crumbling, overgrown section of the “Dead City.” Twisted metal skeletons of buildings claw at the overcast sky. Anya’s makeshift workshop – a sheltered alcove within a collapsed structure – is cluttered with salvaged components, tools, and half-disassembled devices. Flickering bioluminescent fungi provide the primary light source.
+
+**Characters:**
+
+* **Anya:** (20s) Resourceful, intensely curious, and isolated. Her clothes are patched and practical, smudged with grime.
+* **Kael:** (30s) A cautious member of Anya’s community, tasked with keeping watch. He’s skeptical of Anya’s work but respects her skills.
+
+**(The scene opens with Anya meticulously soldering a wire onto a salvaged circuit board. She’s using a makeshift soldering iron powered by a hand-cranked generator. The generator’s housing is fashioned from a repurposed cooking pot, its crank awkwardly connected to a series of scavenged gears and belts. She’s not just connecting wires; she’s rerouting power from a damaged regulator, bypassing a burnt-out component with a carefully wound coil of copper salvaged from a data cable.)**
+
+**Kael:** Still chasing ghosts, Anya? The water filters need mending. That’s real work.
+
+**Anya:** (Without looking up) This *is* real work, Kael. Understanding how things were built isn’t just a hobby. It’s… insurance. What happens when the filters *can’t* be mended? When we can’t scavenge replacements?
+
+**Kael:** We adapt. We always have. The Elders say dwelling on the Before-Times breeds discontent. It makes you forget what we *have*, not what we’ve lost.
+
+**Anya:** (Sighs, but continues working) It’s not about *wanting* the past back. It's about preventing the same mistakes. They didn’t just fall apart, Kael. These machines… they were over-engineered, then neglected. There were fail-safes, redundancies… things we could learn from.
+
+**Kael:** They were built by people who thought they could control everything. Look where that got them.
+
+**(Anya ignores him, carefully connecting another wire. A static burst crackles from a small, handheld receiver she’s modified, resting on a nearby crate. The receiver’s casing is crafted from a salvaged data pad, its screen cracked but functional. She pauses, frowning. The static isn’t random; it pulses with a faint, rhythmic quality.)**
+
+**Anya:** That’s… new.
+
+**Kael:** What is? Another one of your contraptions spitting sparks?
+
+**Anya:** I usually get nothing but silence on this frequency. Weeks of scanning, and it's always dead air.
+
+**(She adjusts the receiver’s dial, painstakingly fine-tuning the frequency. The static intensifies, resolving into a complex pattern of white noise. She adjusts a small, hand-wound inductor, filtering out some of the higher frequencies. The static fluctuates, punctuated by fleeting, distorted fragments of what sounds like… music? A fragmented melody, almost childlike in its simplicity. And a voice, barely audible, speaking a language she doesn't recognize.)**
+
+**Anya:** (Concentrating) There's something… *in* the static. It’s faint, but… structured. Like a broadcast. Not just random interference.
+
+**(She spends several minutes tweaking the receiver, her brow furrowed in concentration. Brief, fragmented images begin to flicker on the tiny screen – glimpses of bright, geometric patterns, and flashes of what look like… buildings? Not ruins, but sleek, modern structures, bathed in artificial light. The images are unstable, glitching and distorting, but they hint at a world vastly different from their own.)**
+
+**Kael:** (Growing uneasy) What are you doing? That thing is giving me a headache. The Elders say tampering with old tech invites the spirits of the lost.
+
+**Anya:** (Ignoring him, her voice hushed) It’s… a signal. A very weak one. But it’s definitely not natural. It’s… a message.
+
+**(Suddenly, the receiver emits a loud, piercing screech. The screen flickers violently, then goes blank. Anya quickly shuts off the device, her hands trembling. She examines the receiver, checking the connections, a frustrated sigh escaping her lips.)**
+
+**Kael:** (Jumping back) Enough! That’s enough of that! You’re messing with things you don’t understand. The Elders warned us about this. About digging up the past. It's forbidden.
+
+**Anya:** (Staring at the deactivated receiver) It wasn’t just noise, Kael. It was… a signal from somewhere. And it felt… *familiar*. Like a half-remembered dream. A melody my grandmother used to hum, a tune from before the Dust.
+
+**(She looks out at the decaying city, a strange feeling of unease washing over her. The static, though gone, seems to linger in the air, a silent echo of something unknown. She picks up a small, metallic component, turning it over in her hands. A single, persistent thought echoes in her mind: *Where did that signal come from? And why does it feel like… home?*)**
+
+**(Fade to black.)**

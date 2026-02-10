@@ -1,0 +1,11 @@
+*   **Anya & Kael’s initial exchange (“Anything?” “Just static…”) is functional but lacks spark.** It’s purely informational. Consider adding a beat of character – Kael’s worry, Anya’s weariness, a shared history implied in their brief exchange.
+*   **The bulk of the scene relies on *telling* rather than *showing* through dialogue.** Anya’s internal monologue about the Seeker’s data logs and the ‘static’ could be partially revealed through her *explanations* to Kael. A little bit of exposition is fine, but it’s heavy-handed here. For example, instead of “Anya suspected something concrete, something *broadcasting*,” have her say something like, “It’s not just noise, Kael. It’s… a signal. A strong one.”
+*   **The advertisement voice is a bit cliché.** “Tired of scarcity?” is a common trope. While it *works* to establish the contrast with Pella, consider adding a unique inflection or phrasing to make it more unsettling. Perhaps a subtle undercurrent of pity or condescension.
+*   **Kael’s outburst (“What’s happening?!”) is a standard reaction.** It doesn’t tell us much about *him*. Is he protective of Anya? Is he a seasoned fighter immediately assessing the threat? Add a detail.
+*   **Old Man Tiber’s warning feels rushed and overly dramatic.** While his fear is understandable, the phrasing (“It’s a trap! They’re not offering salvation…”) is very on-the-nose. Consider revealing his understanding *gradually* through panicked questions and observations, rather than a full-blown declaration. Perhaps he notices specific details in the advertisement that trigger his fear.
+*   **The Seeker’s final lines (“Connection established. Broadcasting signal.”) are purely functional.** It's a machine stating facts. Consider a glitch, a distorted phrase, *something* to hint at the loss of its original programming or a sense of being controlled.
+*   **Indirect Characterization Opportunity:** Explore the differing reactions of Pella’s citizens *through* dialogue. A few lines of panicked questions, hopeful murmurs, or defiant shouts would paint a more vivid picture of the community’s response.
+
+
+
+Overall, the dialogue isn't *bad*, but it's largely functional and relies too much on telling instead of showing. There's room to deepen characterization, build tension through subtext, and create a more immersive experience for the reader.

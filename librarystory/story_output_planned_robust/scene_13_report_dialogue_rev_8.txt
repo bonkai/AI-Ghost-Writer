@@ -1,0 +1,12 @@
+*   **Authenticity & Voice:** Rhys’s dialogue is consistently strong – suitably ancient, measured, and subtly manipulative. Your character's responses are generally good, but occasionally lean towards *too* direct and questioning. Archivists are seekers of knowledge, but also careful and observant. A little more internal processing *before* direct questioning would feel more natural.
+*   **Subtext:** There's good subtext already, particularly with Rhys’s veiled threats/assessments. However, opportunities exist to *show* more than *tell*. For example, instead of "I noticed the downturn of his lips, a simmering resentment held in check," *show* that resentment through a specific line of dialogue or a physical action during a pause.
+*   **Efficiency & Purpose:** Mostly efficient. The repeated emphasis on Rhys assessing you ("What are you willing to lose?", constant observation) is effective in building tension. However, the line "You’re an Archivist. You access lost knowledge..." feels like exposition *told to* someone who should already know. This could be implied through action or a more subtle reminder.
+*   **Flow & Rhythm:** Good rhythm overall. The pauses and silences are well-placed.
+*   **Indirect Characterization:** Excellent. The dialogue effectively reveals Rhys’s weariness, loss, and calculating nature. Your character comes across as determined but cautious.
+*   **Info-Dumps:** The line about what an Archivist does is the primary example. It feels unnatural in the context of the conversation.
+
+**Specific Suggestions:**
+
+*   **Rephrase:** Instead of "What guarantees do I have this isn’t a fool’s errand?", consider something like, “Before I commit, I need to understand the stakes. What makes you so certain this isn’t a dead end?” (This implies caution and intelligence, rather than outright skepticism).
+*   **Trim/Combine:** The lines establishing your character as an Archivist are redundant. Let the actions and the context do the work.
+*   **Show, Don’t Tell:** Replace the description of Rhys’s resentment with a specific line of dialogue that *demonstrates* it. Perhaps a clipped response or a pointed remark.

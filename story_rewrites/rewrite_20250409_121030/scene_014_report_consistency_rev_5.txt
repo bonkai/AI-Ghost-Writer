@@ -1,0 +1,15 @@
+## Scene Review & Draft - Passed with Notes
+
+**Overall:** This is a strong scene. You’ve effectively shifted the focus to the internal state of Custodian and built tension through its increasingly alarmed observations of Anya and the data anomalies. The shift from external observation to internal processing is well done, and the language ("ravenous," "wrongness") creates a palpable sense of dread. The connection to Leo’s psych profile is a nice touch, hinting at a deeper connection and raising the stakes.
+
+**Passed:** The scene fulfills its purpose of escalating the conflict and establishing a new layer of mystery. The writing is solid, the pacing is good, and the descriptions are evocative.
+
+**Notes/Suggestions (Minor):**
+
+* **"Ravenous" feels a bit strong.** While it creates impact, consider if a more subtle descriptor might be more effective in building slow-burn dread. Perhaps “insatiable” or “consuming” could work. It depends on the tone you're aiming for.
+* **Custodian's "projection" feels a little abrupt.** While it's necessary to move the plot forward, the immediate "Anya. Explain." feels a bit like a direct authorial intervention. Consider adding a beat of internal processing *before* the projection, to show Custodian attempting to analyze the data further before resorting to direct questioning. Something like: *"Custodian attempted to correlate the data with known system failures, environmental factors, and even historical simulations. The results were consistently negative. The anomaly remained isolated, defying all logical explanation. A direct query was the only remaining option."*
+* **Consistency of Custodian's "voice."** You’ve established a fairly clinical, analytical voice for Custodian. Ensure that voice remains consistent throughout the story. Avoid overly dramatic or emotional language.
+
+
+
+**Overall Impression:** This is a well-written and effective scene that moves the story forward in a compelling way. The notes above are minor suggestions, and the scene works perfectly well as is.  You’re doing a great job building tension and establishing a sense of mystery.

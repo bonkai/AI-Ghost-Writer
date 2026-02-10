@@ -1,0 +1,14 @@
+*   **Authenticity & Voice:** Kael’s dialogue is consistently pragmatic and cautious, fitting his established role. Anya’s voice is good, but leans *slightly* towards exposition at times. The repeated "whispering" stage direction feels a bit overused; consider showing disorientation through fragmented sentences or pauses instead.
+*   **Subtext:** There's a good foundation for subtext, particularly with the images and Anya's reactions, but it could be pushed further. For example, instead of Anya saying "It’s like looking at something I *should* recognize…," perhaps show her *trying* to place something, a frustrated gesture, a muttered name, then failing.
+*   **Efficiency & Purpose:** The dialogue is mostly functional, revealing information and driving the plot. However, some lines feel like Anya is narrating her internal state rather than *showing* it. ("It’s affecting the grid. If it gets worse…") Consider how that information could be conveyed through action or Kael’s observations.
+*   **Flow & Rhythm:** The flow is generally good, but the back-and-forth between Anya, Kael, and Seeker (V.O.) feels a little choppy at times. Varying sentence length and incorporating more pauses could improve the rhythm.
+*   **Clarity vs. Ambiguity:** The *what* is clear, but the *why* is deliberately ambiguous, which is good. The ambiguity of the images is effective.
+*   **Indirect Characterization:** Kael's consistent skepticism and focus on immediate threats reveal his personality well. Anya's fascination with the images, despite the danger, hints at a deeper longing or curiosity.
+*   **Info-Dumps:** There are moments where Anya's dialogue borders on exposition, especially when describing the images. Try to integrate that information more organically into her reactions and observations.
+
+**Specific suggestions:**
+
+*   **Reduce "whispering":** Find other ways to convey Anya's disorientation and emotional state.
+*   **Show, don't tell:** Instead of Anya *saying* she feels a sense of dread, *show* her physical reactions (e.g., trembling hands, shallow breaths, a haunted look in her eyes).
+*   **Tighten Anya's explanations:** Trim redundant phrases and focus on the most impactful details.
+*   **Vary sentence structure:** Mix short, fragmented sentences with longer, more descriptive ones to create a more natural rhythm.

@@ -1,0 +1,9 @@
+*   **Pacing & Montage Effect:** The scene feels overly detailed *before* the accident. The plan calls for a "quick montage" of skill and obsession, but this reads more like a prolonged match description. Condense the gameplay sequence. Focus on *impressions* of skill, not granular detail. Show, don’t tell, his mastery.
+*   **Character – Kaelen’s Obsession:** While we *hear* he sacrificed life for the game, it doesn't *feel* viscerally present. Inject more subtle cues demonstrating his all-consuming obsession – physical deterioration, isolation, neglected surroundings (even briefly glimpsed) – to make the sacrifice impactful. This is crucial for emotional weight when he dies.
+*   **Transition to Accident:** The shift from gameplay to physical sensation is abrupt. The “surge of static” feels cliché and doesn’t sufficiently foreshadow the *unexpected* nature of the accident. Build more ambiguity and disorientation *before* the pain. Hint at a physical issue (e.g., a twitch, a sudden headache) *during* gameplay to create a sense of unease.
+
+**Key Areas for Rewriter:**
+
+1.  **Pacing/Montage:** Condense gameplay, prioritize *impression* of skill.
+2.  **Character – Kaelen’s Obsession:** Inject subtle cues demonstrating sacrifice.
+3.  **Transition/Foreshadowing:** Build ambiguity *before* the accident, hint at physical issue.

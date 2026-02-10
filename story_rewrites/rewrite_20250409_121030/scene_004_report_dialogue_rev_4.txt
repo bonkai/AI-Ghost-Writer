@@ -1,0 +1,14 @@
+*   **Authenticity & Voice:** Old Man Hemlock’s voice is strong and consistent – steeped in tradition and fear. Anya’s voice, while determined, feels *too* controlled. The stage directions repeatedly emphasize her internal struggle ("tightens grip," "clenches fists," "forces a steady tone"). This *telling* weakens her dialogue. She *sounds* like someone trying not to reveal something, but it’s not organically conveyed in *what* she says. Kael is almost entirely silent, which feels odd for a "strong, practical leader" offering support.
+*   **Subtext:** There's a *little* subtext with Hemlock’s ambiguous warnings, but it’s mostly direct pronouncements of doom. The final image of the metallic sheen is a good attempt, but needs to be *earned* earlier through dialogue or action.
+*   **Efficiency & Purpose:** The dialogue is largely repetitive. Hemlock states his fear, Anya defends her actions, and this cycle repeats. Mara’s line feels like a quick injection of anxiety without adding much to the conflict.
+*   **Flow & Rhythm:** The back-and-forth is predictable. It lacks nuance or a shift in power dynamics.
+*   **Indirect Characterization:** Kael’s silence *could* be powerful, but it needs to be intentional and subtly revealed through body language (which is described, but doesn't translate into dialogue).
+*   **Info-Dumps:** Anya’s explanation of the machine is functional but lacks emotional weight. It feels like she’s checking off technical details rather than pleading her case.
+
+**Suggestions:**
+
+*   **Anya:** Remove some of the stage direction *about* her nervousness and let it manifest in her speech. Stuttering, clipped sentences, or deflecting questions would be more effective. Focus on what she *avoids* saying.
+*   **Kael:** Give him *something* to say, even a single line of pragmatic support for Anya ("She's thought this through, Hemlock. Let's hear her out.") or a skeptical question that forces Anya to elaborate.
+*   **Hemlock:** Instead of just stating fear, have him ask leading questions that highlight the potential dangers. ("What safeguards have you built against… influence?")
+*   **Trim Repetition:** The core argument is clear. Cut lines that simply restate the same points.
+*   **Show, Don't Tell:** Instead of *telling* us Anya is struggling, *show* it through her dialogue and actions.

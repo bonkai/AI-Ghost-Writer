@@ -1,0 +1,14 @@
+*   **Authenticity & Voice:** Old Man Hemlock’s voice is consistent and strong – a traditionalist steeped in fear. Anya and Kael are a bit flatter. Anya’s lines, while logical, lack a certain emotional weight given the secret she carries. Kael feels more like a supportive prop than a fully realized character.
+*   **Subtext:** There's a *hint* of subtext with Anya’s hesitation after Hemlock's "Are you even sure you're still one of us?" but it's not fully explored. This is a key moment for her internal conflict and should be emphasized. The dialogue is largely direct; opportunities for characters to *show* their feelings rather than *tell* are missed.
+*   **Efficiency & Purpose:** The dialogue is somewhat repetitive. The core fear – the machine is dangerous because of the Old Ones – is stated multiple times by Hemlock. Trimming some of these repetitions would increase tension. Mara’s lines, while understandable, feel a bit like a broken record – repeating her worry about her daughter.
+*   **Flow & Rhythm:** The back-and-forth is a bit stilted. It feels like each character is delivering a speech rather than engaging in a dynamic conversation.
+*   **Indirect Characterization:** The division within the community is *shown* well through the stage directions, but the dialogue doesn't fully capitalize on it. More nuanced reactions from individual villagers would add depth.
+*   **Info-Dumps:** The explanation of the Old Ones and their technology feels a bit forced. While necessary to establish the world, it could be woven into the conversation more organically, perhaps through anecdotes or personal experiences.
+
+**Specific Suggestions:**
+
+*   **Anya:** Give her more internal conflict visible in her dialogue. A slight edge, a defensive tone, or a pause before answering Hemlock’s accusations would add layers.
+*   **Kael:** Give him a line that isn't just supportive of Anya. Perhaps a pragmatic observation about the risks, or a question that challenges Hemlock's assumptions.
+*   **Hemlock:** While his voice is strong, vary his delivery. A moment of quiet desperation, or a plea to protect the community, would make him more compelling.
+*   **Mara:** Instead of repeating her fear, show it through her actions – clutching her daughter, anxiously scanning the machine, etc.
+*   **Trim Repetition:** Consolidate the statements about the Old Ones and the dangers of the machine. Focus on *showing* the fear, rather than *telling* it.

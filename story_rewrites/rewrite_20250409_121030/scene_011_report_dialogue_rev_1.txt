@@ -1,0 +1,13 @@
+*   **Authenticity & Voice:** The dialogue is generally functional but leans towards telling rather than showing. Characters *state* their observations ("That’s impossible," "Fascinating") rather than *reacting* in a way that reveals their personality. The woman's lines, while concise, feel a bit too…clinical. A slight adjustment to add a hint of motivation or internal thought would help.
+*   **Subtext:** There's a missed opportunity for subtext, particularly with Anya. She *feels* watched, but doesn’t vocalize any internal struggle or question *why* she might be a target. A simple, “What was that?” directed at Kael or Mara, even if unanswered, would add tension and character. The woman's lines are almost entirely devoid of subtext; she’s simply stating what she's doing/observing.
+*   **Efficiency & Purpose:** Some lines are redundant. For example, Mara stating "It’s a map" after already displaying it on screen is unnecessary. Focus on what the *implication* of the map is, rather than the fact that it *is* a map.
+*   **Flow & Rhythm:** The dialogue feels somewhat stilted. It's a series of observations and confirmations rather than a natural conversation. Varying sentence length and adding interjections or pauses would improve the flow.
+*   **Indirect Characterization:** The dialogue doesn't do much to subtly reveal character traits or relationships. We *know* Leo is focused and analytical, but we don’t *see* it in his speech patterns.
+*   **Info-Dumps:** While not egregious, the explanations of Leo’s “data refraction” and the woman’s scan levels feel like exposition delivered through dialogue. Consider showing the effects of these actions rather than explaining them.
+
+**Specific Suggestions:**
+
+*   **Anya:** Give her *some* dialogue beyond just receiving information. Even a brief internal monologue expressed aloud would add depth.
+*   **Woman:** Add a line hinting at *why* she’s interested in Anya. A flicker of ambition, curiosity, or even a hint of manipulation would make her more compelling.
+*   **Mara & Leo:** Trim redundant lines. Focus on their reactions to the data, not just stating what the data *is*.
+*   **Overall:** Encourage more showing, less telling. Let the characters’ actions and reactions speak for themselves.

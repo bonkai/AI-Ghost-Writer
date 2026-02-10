@@ -1,0 +1,12 @@
+*   **Kael's Initial Line ("Anything?")**: Feels incredibly abrupt, even for a character who doesn't bother with greetings. A simple "Find anything?" or "Anything on those comms?" would feel more natural and still convey his directness.
+*   **Anya's Nervous Habit:** The repetition of "rubbing her forearm" feels a bit on the nose. Consider *showing* her anxiety through her dialogue or actions *instead* of explicitly stating it. Perhaps she speaks quickly, or her voice cracks slightly.
+*   **Dialogue & Internal Monologue Overlap (Leo's sections):** Leo's internal monologue is *very* descriptive, almost narrating what the reader is already seeing/understanding. This is especially noticeable when he analyzes the tech or Anya’s determination. Consider streamlining this and letting the discoveries *impact* his dialogue/actions (if any) rather than explaining them.
+*   **"The Foundation. The…Everything."**: While mysterious, this line feels a bit cliché and lacks impact. Consider what *specifically* about this phrase would be unsettling or memorable. What does "Everything" imply?
+*   **Kael’s Reaction to the Hologram:** Lowering his weapon *and* furrowing his brow feels redundant. Choose one action to convey his shifting assessment.
+*   **Kael’s Final Lines:** Both lines (“We need to keep this quiet…” and “This doesn’t feel right…”) are a bit generic. They state his feelings rather than *showing* them. What specifically makes him feel this way? What specific consequences does he foresee?
+*   **Leo's Connection to Anya:** The line "He felt a strange connection, a resonance across the vast gulf of time and space" is a bit melodramatic and feels unearned. The reader hasn't seen enough interaction between Leo and Anya to justify this strong emotional response.
+*   **Repetitive Emphasis on "Old":** The word "old" is used multiple times (older than anything, old future, etc.). Find synonyms or rephrase to avoid redundancy.
+
+
+
+Overall, the dialogue isn't *bad*, but it leans heavily towards telling rather than showing. There's a lot of internal thought being externalized directly into speech, and opportunities for subtext and more nuanced characterization are being missed.

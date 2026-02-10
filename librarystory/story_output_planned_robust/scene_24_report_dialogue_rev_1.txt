@@ -1,0 +1,11 @@
+*   **Exposition Heavy:** While the information is crucial, a lot of it is delivered as direct explanation ("The Sunstone Bloom isn’t just a rare flower…", "The resonance isn’t just a connection…"). Consider *showing* more of this through Seris’s observations, Kaelen’s reactions, or even brief, evocative descriptions. For example, instead of *telling* us the observatory was sealed deliberately, show Seris noticing reinforced seals or wards.
+*   **Kaelen's Monologues:** Kaelen does a *lot* of explaining. He feels like an info-dumping device at times. Break up these longer explanations with Seris’s questions, reactions, or independent deductions. Let *her* be more active in piecing things together.
+*   **Seris's Reactions:** Seris’s internal reactions ("felt a chill run down her spine," "couldn’t shake the feeling") are present, but could be *integrated* into her dialogue. A subtle line of questioning, a momentary hesitation, or a change in tone could convey the same feeling more organically.
+*   **"Why?" Repetition:** Seris asks “Why?” multiple times. While natural, it feels slightly repetitive. Consider varying her phrasing ("What's the purpose?", "What's at stake?").
+*   **Subtext Opportunity (Marius):** The dialogue about Marius feels a little flat. Instead of simply stating he's been probing their knowledge, show Kaelen revealing a specific instance where Marius subtly misled them. A concrete example would make the threat feel more immediate.
+*   **Indirect Characterization (Kaelen):** Kaelen's grim smile and strong grip are good touches, but could be amplified. What *specifically* about the situation amuses/concerns him? Let his personality shine through in *how* he delivers information, not just in stage directions.
+*   **"We" Overuse:** The constant use of "we" feels a bit forced, especially when Kaelen is doing most of the explaining. Vary the sentence structure to avoid this pattern.
+
+
+
+Overall, the dialogue is functional and conveys the necessary information, but it leans heavily towards exposition and lacks significant subtext or nuance. It could be significantly improved by *showing* more and *telling* less, and by giving Seris a more active role in the conversation.

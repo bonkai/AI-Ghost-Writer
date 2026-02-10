@@ -1,0 +1,13 @@
+*   **Authenticity & Voice:** Kael's voice is consistent – gruff, pragmatic, and dismissive of anything resembling hope. Anya's voice is also consistent, but leans *very* heavily into wistful questioning. It borders on repetitive. Every line feels like she's subtly pushing against Kael's cynicism, which feels a bit one-note after a while.
+*   **Subtext:** There's *some* subtext, primarily in Anya’s upward glances and the mention of the listening post. However, much of the conflict is stated directly ("What if the old tech *could* have helped us?"). Opportunities for more nuanced conflict are missed. For example, Anya could *show* her longing through her work – perhaps a meticulousness in patching that suggests she’s trying to *preserve* something, rather than just delay the inevitable.
+*   **Efficiency & Purpose:** The dialogue *does* reveal character and establish the central conflict (hope vs. pragmatism). However, it feels lengthy. Several exchanges are essentially reiterations of the same point. The lines about grandmothers and stories, while establishing backstory, feel a little drawn out.
+*   **Flow & Rhythm:** The back-and-forth is a bit stilted. It feels like each character is waiting for their turn to state their position, rather than a natural conversation.
+*   **Indirect Characterization:** Kael's dismissal of stories and focus on the present effectively characterizes him as someone hardened by experience. Anya's persistent questioning shows her as someone who hasn't given up on the possibility of a better future.
+*   **Info-Dumps:** The backstory about grandmothers and the old world feels a bit forced. It's necessary to establish the setting and Anya's motivation, but it could be woven into the dialogue more subtly.
+
+**Suggestions:**
+
+*   **Trim Repetition:** Condense the exchanges about the past. Focus on *showing* Anya's longing, rather than having her constantly articulate it.
+*   **Increase Subtext:** Instead of Anya directly asking "What if the old tech could have helped us?", perhaps she could examine a salvaged component with a thoughtful expression, or carefully repair a piece of pre-Collapse machinery.
+*   **Vary Rhythm:** Interweave dialogue with Anya’s actions. Show her working while she speaks, or have Kael interrupt her with a curt order.
+*   **Show, Don't Tell:** Instead of Kael *telling* Anya to focus, have him demonstrate his pragmatism by swiftly and efficiently repairing a filter, contrasting with Anya’s more deliberate approach.

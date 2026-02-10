@@ -1,0 +1,3 @@
+* **Pacing & Show, Don't Tell:** The scene fluctuates in pacing and relies too heavily on exposition. Streamline descriptions and emphasize Kaelen’s experience through action/internal monologue rather than explanation.
+* **Dialogue Dynamics:** Elara’s role is passive. Give her more agency and explore subtext within the dialogue to create a more dynamic interaction.
+* **Smooth Transitions:** The shift from the game world to the library feels abrupt. Add a beat of disorientation within the game to create a smoother transition and maintain tension.

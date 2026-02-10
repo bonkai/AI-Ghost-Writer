@@ -1,0 +1,16 @@
+*   **Authenticity & Voice:** Kael’s lines are a bit flat. He mostly reacts, which is fine for a supporting character, but even his reactions (“What is that thing?”) feel a little generic. Anya’s voice is stronger, but even she occasionally slips into exposition (“This is bigger than anything we’ve ever seen.”). Leo's internal monologue is strong, but bordering on overly dramatic ("shatter the foundations of his reality").
+*   **Subtext:** Opportunities are missed. Anya’s “tightness in her chest” and “prickling sensation” are *told* to us, not *shown*. A subtle physical reaction during the conversation with Kael would be more effective. Leo's "strange connection" feels a bit abrupt; build that resonance more gradually through his observations.
+*   **Efficiency & Purpose:** Some lines feel like setup rather than revealing character. Old Man Tiber's outburst is largely extraneous. While it establishes his character as superstitious, it doesn't *do* much for the scene. Anya stating “We need to keep this quiet” is a bit on-the-nose; her actions and the look she exchanges with Kael already convey that.
+*   **Flow & Rhythm:** The dialogue is generally functional, but lacks a distinctive rhythm. It’s mostly direct question/answer or statement/reaction. Varying sentence structure and adding more pauses or interruptions could improve the flow.
+*   **Indirect Characterization:** The dialogue *does* reveal relationships – Anya as the proactive investigator, Kael as the cautious protector. But it could be more nuanced.
+*   **Info-Dumps:** Leo’s internal monologue occasionally veers into exposition. Phrases like “remnants of a civilization far beyond anything he’d ever encountered” are telling, not showing.
+
+
+
+**Suggestions:**
+
+*   **Revise Kael’s lines:** Give him a distinct way of speaking – perhaps a dry wit, or a tendency to state the obvious.
+*   **Show, don’t tell:** Replace descriptions of Anya’s feelings with physical reactions.
+*   **Trim extraneous dialogue:** Consider removing Old Man Tiber’s outburst.
+*   **Subtextualize:** Replace direct statements with implied meanings. For example, instead of “We need to keep this quiet,” have Anya subtly glance around, or give Kael a warning look.
+*   **Vary sentence structure:** Break up long paragraphs of internal monologue with shorter, more impactful sentences.

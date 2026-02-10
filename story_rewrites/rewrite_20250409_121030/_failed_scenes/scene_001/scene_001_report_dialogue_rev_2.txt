@@ -1,0 +1,13 @@
+*   **Authenticity & Voice:** Leo’s internal monologue is strong, but his murmured lines ("Another perfect morning," "False positive") feel a little *too* on-the-nose. They *tell* us he's disturbed rather than *showing* it through subtle vocal delivery. Consider how a person *actually* speaks when trying to convince themselves of something.
+*   **Subtext:** There's a good foundation for subtext, especially with the glitches and fractured memories. However, leaning into *showing* Leo’s growing unease through his actions and brief, clipped dialogue would be more effective. The "perfect morning" line is a prime example – a slight hesitation, a change in tone, would convey more than the statement itself.
+*   **Efficiency & Purpose:** The dialogue is minimal, which isn't necessarily bad. But some of it feels like it exists solely to state the obvious. For example, stating "Everything was functioning perfectly" after a system diagnostic is redundant. We *know* it is, because he *ran* the diagnostic.
+*   **Flow & Rhythm:** The pacing is fine, but the lack of external dialogue creates a slightly static feel. Even a brief interaction with the wrist interface (beyond a "blandly cheerful affirmation" he ignores) could add a little texture.
+*   **Indirect Characterization:** The dialogue *supports* indirect characterization, but it could be stronger. The way Leo dismisses the glitches (“False positive”) reveals his desire to maintain control, but it’s a bit blunt.
+*   **Info-Dumps:** The description *around* the dialogue sometimes leans towards exposition ("He was a systems architect..."). While necessary to establish the setting, ensure the dialogue doesn't get caught up in explaining things the reader can infer.
+
+**Suggestions:**
+
+*   **Revise murmured lines:** Instead of stating Leo’s feelings, *show* them through his delivery. A hesitant pause, a strained tone, a clipped response.
+*   **Trim redundant statements:** Cut lines that simply restate what the reader already knows.
+*   **Explore brief interactions:** Add a short exchange with the wrist interface or another system component to break up the internal monologue.
+*   **Embrace ambiguity:** Allow Leo’s unease to manifest in subtle ways, rather than explicitly stating it.

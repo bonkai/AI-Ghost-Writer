@@ -1,0 +1,14 @@
+*   **Authenticity & Voice:** The dialogue is functional but leans towards exposition. Jax's lines are particularly terse and feel like placeholders. Rhys's technical explanations, while necessary, could be delivered with more personality or urgency. Elara's lines are consistently "tight," which feels repetitive after a while.
+*   **Subtext:** There's very little subtext. Everything is stated directly. Opportunities exist to show character reactions *through* dialogue rather than *telling* us they're feeling something ("Elara's voice tight").
+*   **Efficiency & Purpose:** Some dialogue feels redundant. For example, Rhys stating the energy signature matches Project Nightingale is a significant reveal, but feels a bit flatly delivered. The back-and-forth of "What kind of energy?" "Not electrical..." is minimal and could be streamlined.
+*   **Flow & Rhythm:** The conversation is a bit stilted. It feels like a series of reports rather than a natural exchange between team members under pressure.
+*   **Indirect Characterization:** Limited. We learn *what* the characters do, but not much about *who* they are beyond their roles.
+*   **Info-Dumps:** The explanation of Project Nightingale feels like an info-dump, even if the information is crucial. Consider revealing this information more gradually, perhaps through fragmented logs or Rhys's growing realization.
+
+**Suggestions for Improvement:**
+
+*   **Give Jax more personality.** A sarcastic remark, a questioning tone, *something* to differentiate him.
+*   **Show, don't tell.** Instead of "Elara's voice tight," *show* her tension through clipped sentences, pauses, or a specific question revealing her fear.
+*   **Combine lines.** Streamline the back-and-forth exchanges.
+*   **Build suspense.** Delay the full reveal of Project Nightingale. Let Rhys piece it together gradually, with Elara and Jax asking leading questions.
+*   **Consider adding a beat of silence.** After a key reveal, allow the characters to react *without* immediately speaking.

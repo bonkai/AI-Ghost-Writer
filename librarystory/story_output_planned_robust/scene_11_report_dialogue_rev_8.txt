@@ -1,0 +1,9 @@
+*   **“Kaelen? What’s happening?”** – This feels a little *too* on-the-nose given the circumstances. Elara is clearly witnessing something extraordinary. A more subtle reaction – a gasp, a questioning look, even just her name spoken with alarm – would likely be more effective and allow the visual description to carry more weight.
+
+*   **“I… I built it.”** – While the hesitancy is good, this line, followed immediately by “Instructions. A framework. And I remember… laying the first stone,” feels like telling instead of showing. The ‘knowing’ should be *felt* by the reader through Kaelen’s internal experience and actions, not stated. Consider *removing* the first line entirely and letting the second line carry the weight, or drastically shortening the first to something like, "I… I know this."
+
+*   **Repetitive Internal 'Knowing':** The phrase "knowing" is used multiple times in quick succession ("not as images, but as *knowing*," "not a single thought, but a cascade. A feeling of… homecoming.") This weakens the impact. Consider replacing some instances with descriptions of the *sensations* associated with this realization – a physical feeling, a shift in perception, etc.
+
+*   **Indirect Characterization Opportunity:** Elara has very little dialogue. This is fine, but consider *why* she’s silent. Is she in awe? Fearful? Protective? A single line revealing her emotional state (even a non-verbal one described in narration *after* the dialogue) could strengthen her character and their dynamic.
+
+*   **Subtext Potential:** The reveal of Kaelen building this "structure" is significant. Consider if there's an opportunity to hint at this earlier in the story, even subtly, to create a stronger sense of foreshadowing and payoff.

@@ -1,0 +1,14 @@
+*   **Authenticity & Voice:** Generally good, but a few lines feel a *little* too polished/formal for a potentially tense, secretive encounter. The merchant's lines, while menacing, occasionally lean into theatrical villainy ("Or would you prefer I seek this information elsewhere?"). Consider dialing back the dramatic flair for a more believable threat. Rhys feels a bit passive; his desperation is *told* through description, but doesn't fully come across in his dialogue.
+*   **Subtext:** Strong in places, particularly Seris's control and veiled threats. The exchange about "individuals who understand the value of silence" is excellent. However, the repeated emphasis on needing "assurance" and "guarantees" feels a bit redundant. Perhaps *show* their concern through a quick glance or a subtle physical reaction instead of stating it directly.
+*   **Efficiency & Purpose:** Mostly efficient. Dialogue advances the tension and reveals character (Seris as the pragmatic leader, Rhys as the worried follower). The discussion of botany feels slightly like padding, though it establishes their cover. Consider streamlining it.
+*   **Flow & Rhythm:** Good pacing, particularly the back-and-forth between Seris and the merchant. The silences are well-placed.
+*   **Clarity vs. Ambiguity:** Clear enough, but the stakes could be heightened by being *slightly* less explicit about what the map reveals. A little more mystery would increase tension.
+*   **Indirect Characterization:** Effective. Seris's controlled demeanor and direct gaze clearly establish her as the dominant figure. Rhys’s anxiety is present, but could be amplified through a line or two showing him actively trying to steer the conversation away from danger.
+*   **Info-Dumps:** The botanical explanation is the closest thing to an info-dump, but it’s relatively brief. Consider weaving that information more organically into the conversation.
+
+**Specific Suggestions:**
+
+*   **Rhys:** Give him one line where he *attempts* to intervene, only to be silenced by Seris. This would demonstrate his worry more effectively.
+*   **Merchant:** Tone down the theatricality. A more subtle threat is often more chilling.
+*   **"Assurance" & "Guarantees":** Reduce repetition. *Show* their concern, don’t just *tell* us.
+*   **Botanical Explanation:** Condense or integrate it into a response to the merchant's questioning.

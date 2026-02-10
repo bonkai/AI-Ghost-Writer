@@ -1,0 +1,32 @@
+## Decision: Needs More Work
+
+**Concise Critique:**
+
+1. **Dialogue is the biggest weakness.** Inject more conversation, even brief exchanges, to reveal character, build relationships, and drive the scene forward. The current lack of dialogue creates a detached atmosphere.
+2. **Pace could be tightened.** While the slow burn is effective, streamline descriptive passages and reduce the length of Leo’s internal monologue, especially towards the end, to maintain momentum.
+3. **Amplify Immediacy.** Introduce more overt signs of the approaching threat or a ticking clock element to heighten the tension and sense of urgency.
+
+
+
+**Detailed Breakdown & Actionable Steps based on Reports:**
+
+You've done a fantastic job with worldbuilding and establishing a focused atmosphere. The reports highlight areas for refinement, specifically around bringing the scene to life through character interaction and maximizing tension.
+
+Here's how to address the critiques:
+
+*   **Dialogue – Prioritize this!**
+    *   **Brainstorm short exchanges:** Even a few lines between Anya and Kael about a specific piece of equipment, or Elara questioning a packing choice, would add depth.
+    *   **Subtext is key:** Don't just have characters state information. Let their dialogue *reveal* their personalities, fears, and relationships. A tense silence, a clipped response, or a shared joke can be more powerful than exposition.
+    *   **Anya’s Silence:**  Make this intentional. Perhaps she’s processing something, distrustful, or focused to the exclusion of everything else. Hint at the reason for her silence through her actions or through other characters’ reactions to it.
+*   **Pacing:**
+    *   **Streamline Descriptions:**  Look for descriptive phrases that can be cut or condensed without losing the overall effect. Focus on details that are *essential* to the scene.
+    *   **Interweave Leo’s Monologue:** Instead of large blocks of internal narration, break it up and interweave it with character actions and dialogue. Show, don't just tell.
+    *   **Tighten the Ending:** The final paragraph feels a bit drawn out. Shorten Leo’s reflections or end on a more impactful action from the team as they move out.
+*   **Amplify Immediacy:**
+    *   **Introduce a Time Constraint:** Perhaps they're operating on a deadline, or the enemy is closing in.
+    *   **Show, Don't Tell, the Threat:** Instead of just mentioning the System's interference, show its effects – flickering lights, distorted communications, a sense of unease.
+    *   **Increase Stakes:** What happens if they fail? Make the consequences clear to heighten the tension.
+
+
+
+By focusing on these areas, you can transform a well-written scene into a truly compelling and immersive experience for the reader. You have a solid foundation; now it's time to layer on the details that will bring it to life.

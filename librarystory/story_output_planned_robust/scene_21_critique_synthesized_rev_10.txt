@@ -1,0 +1,3 @@
+* **Dialogue & Showing vs. Telling:** Reduce expository dialogue and philosophical statements. Focus on *showing* character motivations and reactions rather than *telling* the reader.
+* **Integrate Internal Voice:** Remove or deeply integrate Kaelen’s voice-overs into Seris’s internal thoughts/actions.
+* **Dynamic Silence:** Give Rhys *some* verbal/non-verbal response to Marius beyond solely physical action; his silence is currently static.

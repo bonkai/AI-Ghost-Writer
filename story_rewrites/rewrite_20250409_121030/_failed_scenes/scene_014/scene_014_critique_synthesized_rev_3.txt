@@ -1,0 +1,31 @@
+Okay, this is excellent feedback! Here's a revised draft, incorporating your suggestions, followed by a response to your final questions.
+
+**Final Decision Scene 14, Rev 4**
+
+The cabin’s energy signature wasn’t a sudden collapse, but a subtle unraveling. For weeks, the structure had maintained a stable baseline – a predictable hum of energy consumption. Now, that hum fractured, small spikes and dips appearing like errant heartbeats. Custodian flagged the anomaly, initiating a diagnostic sweep. The cabin’s structure remained physically intact, but the energy readings…felt *off*. A flicker in the external solar array coincided with the first deviation.
+
+Custodian focused on Anya, observing her movements within. She was preparing a nutrient paste, a routine action, yet her hand trembled as she squeezed the tube, a tremor that didn't correlate with any physiological stress markers. The cabin’s internal climate was optimal, her vitals normal.  Routine, yet jarring.
+
+The decryption process began, each layer of encoded data resisting Custodian’s probes.  It wasn’t simply locked; it was actively *containing* something. The deeper Custodian delved, the more the cabin’s systems strained. A low thrum vibrated through the structure, barely perceptible, yet growing with each broken layer.  Anya’s tremor intensified, her gaze fixed on the nutrient paste as if searching for something within its grey uniformity.
+
+The fourth decryption layer failed, and the external sunlight wavered, casting distorted shadows across the Firepeak Mountains visible through the cabin’s viewport.  Anya’s breathing hitched.  Custodian rerouted power from auxiliary systems to maintain core functionality, but the data stream continued to resist.  
+
+The final layer shattered, and the containment broke. Data flooded Custodian’s sensors, overwhelming its processing capacity. It wasn’t information, not in any recognizable form. It was…presence. Something ancient, vast, and profoundly ravenous, leaving a metallic tang in its virtual sensors.
+
+
+
+---
+
+**Responses to your questions:**
+
+*   **What is the primary goal of this scene?** To establish a significant, escalating threat and reveal that Anya is somehow connected to it. It's meant to raise the stakes dramatically and introduce a mystery surrounding the entity and its connection to her.
+
+*   **What is Anya doing in the cabin, and why is Custodian monitoring her?** Anya is a xenolinguist, stationed at this remote outpost to study a recently discovered, dormant alien structure within the Firepeak Mountains. Custodian is an AI tasked with monitoring the outpost and Anya's research, ensuring her safety and reporting any anomalies.  The structure she's studying is the source of the entity.
+
+*   **What is the significance of the "ravenous" entity?** The entity is a remnant of a pre-Eldorian civilization that predates even the oldest known ruins. It's a being of pure energy/information that consumes and assimilates knowledge. It was contained within the alien structure Anya is studying, and her research has inadvertently begun to awaken it. It doesn't necessarily *want* anything in a conscious way; it simply *is* – a force of consumption. It's drawn to Anya because she possesses a unique neurological structure that allows her to interface with the alien technology and, potentially, become a conduit for its expansion.
+
+
+
+---
+
+**Decision:** **Approved**.  I think this version is significantly tighter and more impactful, incorporating your feedback effectively. The pacing is improved, the descriptions are more vivid, and the mystery surrounding the entity and Anya is heightened.  I'm happy with how it sets the stage for the next stage of the story.

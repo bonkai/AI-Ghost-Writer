@@ -1,0 +1,10 @@
+*   **Over-Exposition & Metaphor Heavy:** While the imagery is strong, the dialogue relies *very* heavily on extended metaphors (cartographer, tapestry, broken instrument). This feels less like natural conversation and more like Seris lecturing. Consider grounding these explanations with more concrete examples or letting Kaelen *actively* question and push for clarification. Kaelen feels passive.
+*   **Kaelen's Voice:** Kaelen's dialogue is *entirely* reactive. She asks clarifying questions, but they lack personality or urgency. Give her a distinct voice – skepticism, pragmatism, fear – something to make her more than a sounding board. Even a simple "That sounds… dangerous" would add a layer.
+*   **"Fractured how?" & "Unravel everything?" - Repetition:** These questions, while functional, feel repetitive and don't advance the conversation beyond asking for more metaphor.
+*   **Internal Thoughts as Dialogue:** The italicized thoughts feel somewhat disconnected from the flow. Consider *showing* Seris reacting to these impressions rather than stating them directly. A slight flinch, a widening of the eyes, a tightening of her grip – these actions would be more impactful.
+*   **"Remember" & "They Lied" - Impact:** These words appearing in ink are dramatic, but the impact is lessened by being immediately followed by silence. Consider delaying the silence by a beat, or adding a brief, physical reaction from Seris.
+*   **The Whisper - Too Convenient:** The final whisper, *"The key is not to find the path, but to remember the song,"* feels a bit too on-the-nose and convenient. It's a crucial clue delivered *exactly* when it's needed. Consider a more fragmented or ambiguous delivery.
+
+
+
+Overall, the dialogue is *conceptually* strong, but needs to be more grounded in character interaction and less reliant on abstract explanations. It feels like Seris is explaining things *at* Kaelen, rather than *with* her.

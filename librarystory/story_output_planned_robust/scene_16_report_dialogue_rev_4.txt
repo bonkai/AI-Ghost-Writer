@@ -1,0 +1,9 @@
+* **Repetitive phrasing:** The repeated emphasis on the seal "failing" and the Nexus being a "prison" feels a bit heavy-handed. While important information, it's stated directly multiple times. Consider *showing* the deterioration through Seris’s sensations and Rhys’s reactions, rather than telling us repeatedly. For example, instead of "the seal is failing," perhaps Seris could experience a surge of chaotic energy each time a crack widens, prompting a physical reaction.
+
+* **Rhys’s silence:** Rhys is *very* silent. While a strong, silent type can work, his lack of verbal response feels a bit passive. Even a simple "What's happening?" or "What did you sense?" earlier on would break up the monologue and show engagement. His single question at the end ("Firestone Mountains?") feels late and a bit flat after so much internal experience from Seris.
+
+* **Info-dump potential:** The explanation of the Nexus as a prison is delivered as direct exposition. While necessary, consider if some of this could be revealed through dialogue later, perhaps a historian character or a discovered text.
+
+* **Kaelen's communication:** Kaelen's fragmented consciousness is an interesting concept, but the delivery ("*Firestone…mountains…heart…bleedthrough…*") feels a bit cliché and lacks nuance. Could this be conveyed through Seris’s physical reactions or emotional state, rather than just a string of keywords? Perhaps a sudden, overwhelming feeling of dread specifically connected to the Firestone Mountains?
+
+* **Seris’s determination:** Her final line ("We have to go...") is functional, but lacks a strong emotional hook. After experiencing such intense sensations, a more visceral reaction – fear, urgency, desperation – might be more compelling.

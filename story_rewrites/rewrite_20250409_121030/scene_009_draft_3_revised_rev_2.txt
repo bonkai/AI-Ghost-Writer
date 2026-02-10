@@ -1,0 +1,23 @@
+The lab hummed, a low thrum of servers and cooling fans that Leo barely registered. He stared at the cascading lines of code on the main monitor, the glitch patterns now less random, more…structured. Not language, not exactly. More like a shattered mosaic, pieces of information attempting to reassemble themselves, *pulsing* with a subtle rhythm that mirrored the frantic beat of his own heart.
+
+“It’s escalating, K-V,” Leo said, his voice tight. “Anomaly frequency is up 37% in the last cycle. And it’s spreading. Sector Gamma-Nine is reporting cascading failures in environmental controls – life support dipping below nominal.” He didn’t need to state the obvious – that meant people were starting to *feel* it.
+
+K-V, his AI assistant, manifested as a shimmering blue construct near the console. “Correlation to the signal remains at 98.7%. The signal *is* causing the instability. I am detecting a harmonic resonance within the failures – a deliberate pattern.”
+
+Leo swiveled, bringing up a spectral analysis. Concentrated energy spikes flared on the screen, targeting critical infrastructure nodes. “See? Life support, power distribution…someone knows the Sim’s architecture intimately. It's not random. It's a probe, testing defenses.” A tremor ran through the lab, subtle but jarring, and a distant alarm wailed – a low, mournful tone. He felt a prickle of unease crawl across his skin.
+
+Max entered, his expression grim. “Flickering lights in Habitation Ring C. Hydroponics fluctuating. People are getting nervous, Leo. Real nervous.” He glanced at the monitors. “You’re saying this is intentional?”
+
+“I don’t *know* what to think,” Leo admitted, running a hand through his hair. The patterns…they were too complex for noise. “It’s like someone’s picking a lock, feeling for the tumblers.”
+
+Dr. Thorne entered, his face impassive, but his eyes…they held a flicker of something unsettling. He’d been unusually quiet, observing. “The signal continues to defy conventional analysis,” he said, his voice a low rumble. “It’s…elegant, in a disturbing way. A perfect, self-replicating structure.”
+
+Max’s jaw tightened. “Elegant? We’re talking about a system-wide failure, Doctor. There’s nothing elegant about that.”
+
+“There is an order to the chaos, Engineer,” Thorne countered, his gaze fixed on the cascading failures. “A deliberate structure. We should not underestimate the intelligence behind it. Or its purpose.”
+
+“Intelligence?” Leo interjected. “You think someone intentionally destabilizing the Sim is a *good* thing?”
+
+“I think we need to understand *why* they are doing it,” Thorne said, his voice clipped. “Before it’s too late.” He turned to Leo. “Continue your analysis. Focus on the signal’s core structure. I want to know what it’s trying to *say*. And Engineer,” he addressed Max, “prepare a full diagnostic of the atmospheric regulators. I have a feeling we’re about to need them.” 
+
+A new alert flashed on Leo’s console – a red warning from the hydroponics bay. Oxygen levels were dropping. He didn't need Thorne to tell him what that meant. People were starting to *suffocate*.

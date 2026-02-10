@@ -1,0 +1,13 @@
+*   **“Anything, Rhys?” / “Severely corrupted…”** – This exchange is functional but lacks nuance. Consider adding a beat of silence *before* Rhys responds, emphasizing Elara’s anxiety and the oppressive silence of the location. A slightly more descriptive response from Rhys initially (“It’s bad, Elara…”) would also ground the severity better.
+*   **Jax’s “Hubris goes a long way out here.”** – Feels a little cliché and out of character. Jax seems practical and focused; this feels like a philosophical observation better suited to another character. It doesn’t *reveal* much about Jax.
+*   **Elara’s murmured “They were reaching for something, weren’t they?”** – While atmospheric, this is a bit of internal monologue presented as dialogue. It doesn’t advance the conversation. Perhaps this observation could be prompted by something Rhys says, or a specific visual detail.
+*   **“Show me” / Data display description** – This is efficient but could be more engaging. Instead of *telling* us she sees corrupted data, show her reaction to a *specific* piece of data. ("Elara frowned, tracing a flickering line on the display. 'Integration failing…it's happening repeatedly.'")
+*   **Rhys’s repeated, factual reporting ("Detecting a residual energy signature…")** – Rhys consistently *tells* them things without much emotional inflection. This makes him feel like a data conduit rather than a character. Injecting some concern or speculation into his delivery would make him more engaging.
+*   **“A network doing *what*?”** – Jax asking this feels redundant. It’s obvious he wants to know the implications. A more specific question based on the immediate context would be stronger.
+*   **Rhys’s exposition on Project Nightingale** – This is a significant info-dump delivered as dialogue. While necessary information, it feels forced. Could this information be discovered through a fragmented log entry that Elara pieces together, rather than Rhys simply stating it?
+*   **Elara’s “They didn’t just fail to integrate it…”** – This feels like a sudden realization, but it doesn’t quite *earn* it. The dialogue leading up to this needs more subtle foreshadowing or a stronger connection to the data they’ve been analyzing.
+*   **Final exchange (glow responding to thoughts)** – While effective in building tension, it relies heavily on description. Consider adding a line of dialogue from Elara expressing *what* she’s feeling—a sense of being watched, a chilling connection—to make it more impactful.
+
+
+
+Overall, the dialogue is functional and conveys the necessary information, but it lacks depth and nuance. It leans heavily on exposition and factual reporting, and could benefit from more subtext, indirect characterization, and emotional resonance.

@@ -1,0 +1,15 @@
+*   **Lucian's Dialogue - Accusation vs. Inquiry:** While the intent of Lucian’s opening line ("What have you offered the stone?") is to be intimidating, framing it *only* as an accusation feels a bit flat. A more nuanced approach might be to *begin* as a question, delivered with icy control, then subtly shift into an accusation as the boy hesitates. This creates more tension and allows Lucian to exert power through control of the interaction, rather than just blunt force. Example: "What offering have you made to the stone, child?" (pause, assessing) "A foolish gesture, perhaps?"
+
+*   **"Foolish Sentiment" - Missed Opportunity:** Lucian dismissing the flowers with "Foolish sentiment" feels…expected. Given his character as an Inquisitor, a more chilling response would be to *ignore* the flowers entirely. The silence, the complete lack of acknowledgment, would be far more unsettling and demonstrate a deeper level of coldness.
+
+*   **Valerius's Dialogue - Redundancy:** Valerius’s line ("A relic, perhaps? Or a plea.") feels like telling rather than showing. The description already establishes the locket has a purpose beyond simple collection. Valerius *could* state the obvious, but it doesn’t add much. Perhaps he could offer a *specific* interpretation of its purpose, based on his expertise, that is then challenged by Lucian.
+
+*   **Lucian’s Orders – Repetitive Detail:** The instructions to Valerius ("Retrieve the object. Catalog it with care…discover why…") are very detailed and feel a bit like a checklist. Trust the reader to understand the process of investigation. Focus on Lucian's *tone* and the implications of his demands rather than listing every step. Condense this into a more impactful statement. Example: “See to it that this offering is analyzed. Every symbol, every origin, and the boy’s motives. I want to know *why* he believes this will suffice.”
+
+*   **Kaelen's Internal Dialogue - Over-Exposition:** Kaelen’s extended internal monologue, while revealing important plot points, feels like a significant info-dump. While *some* internal thought is necessary, the constant explanations ("It was part of the key…a key to unlocking…") slow the pacing and remove some of the mystery. Consider revealing these connections more gradually through Kaelen’s reactions and observations. Let the reader piece things together alongside him.
+
+*   **"Florian" – Abrupt Revelation:** The sudden appearance of the name "Florian" feels a bit jarring. While a mysterious name is good, it lacks build-up. Perhaps Kaelen could sense a *feeling* associated with the floral key before the name surfaces, creating a more organic reveal.
+
+
+
+Overall, the dialogue is functional and conveys the necessary information, but it could be significantly strengthened by focusing on subtext, character nuance, and a more deliberate pacing of reveals. There's a tendency to *tell* rather than *show* and to explain rather than to allow the reader to infer.

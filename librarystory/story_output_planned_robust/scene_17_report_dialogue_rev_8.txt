@@ -1,0 +1,11 @@
+*   **Repetitive Non-Verbal Cues:** The constant descriptions of Seris and Rhys exchanging glances, subtly shifting positions, and mirroring each other's actions (“glanced at Rhys, a silent understanding,” “subtly adjusted his stance,” “Rhys’s hand moved, subtly resting on the hilt”) become redundant. While showing tension is good, *showing* it through action and dialogue, not *telling* us they're doing it, is more effective. Trim some of these. Let the dialogue and their reactions to Valerius *be* the tension.
+
+*   **On-the-Nose Exposition:** Valerius's explanations ("This key unlocks a power…," "A gateway to the Obsidian Realms…") feel like he's narrating to the audience rather than speaking to Seris, who is presumably already aware of *something* being important about the key. Consider delivering this information through snippets of dialogue, flashbacks, or environmental storytelling.
+
+*   **Lack of Subtext:** While the characters are clearly wary, much of the dialogue is direct questioning and stating intentions. Explore opportunities for subtext. For example, instead of Seris directly asking “What do you want?”, she could respond to Valerius's initial statement with a pointed question about *his* motivations, implying she doesn't believe his stated reason.
+
+*   **Cloaked Figure's Voice:** The description of the cloaked figure's voice ("rasped, dry as dust") is good, but the line itself ("Perhaps, safety is a comforting lie.") feels a bit cliché and doesn't reveal much about *this* specific character. Consider a line that's more unsettling or hints at their unique perspective.
+
+*   **Seris's Resolve - Too Quick?** Seris goes from apprehension to "newfound resolve" rather quickly. A beat of internal struggle, or a moment of hesitation before declaring her stance, would make her decision feel more earned.
+
+*   **"They aren't here to take the key..."** The final thought planted in Seris’s mind is interesting, but feels like a sudden reveal *to the reader* rather than something she organically deduces. Perhaps hint at this earlier through subtle cues in the cloaked figure's behavior or Valerius's words.

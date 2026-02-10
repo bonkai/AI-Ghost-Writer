@@ -1,0 +1,3 @@
+*   **Show, Don't Tell:** Reduce telling and increase showing, particularly regarding the Initiate’s internal state and Rhys’s weariness.
+*   **Subtext & Nuance:** Enhance the exchange of information; explore a more complex "price" and hint at stakes rather than explicitly stating them.
+*   **Integrate Internal Voice:** Develop Kaelen’s presence beyond narrative convenience; let it *affect* the Initiate’s dialogue or choices.

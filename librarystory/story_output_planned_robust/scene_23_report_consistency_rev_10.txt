@@ -1,0 +1,33 @@
+## Consistency Check Report:
+
+**Overall:** The new draft (Scene 3) is significantly stronger and more nuanced than the previous iterations. The tension is well-built, and the characters' motivations are clearer. However, there are a few minor inconsistencies and areas for tightening.
+
+**Here's a breakdown:**
+
+* **Character Consistency:** Both Seris and Rhys are behaving consistently with their established personalities. Seris is firm, protective, and strategically cautious, while Rhys displays a more anxious and reactive nature. The silent communication between them is effective.
+* **Worldbuilding Consistency:** The setting and the general premise of a region with forgotten paths and geological anomalies remain consistent. The introduction of the merchant and his interest in a “cave system where the stone bleeds” fits the established world.
+* **Plot Consistency:** The progression of the scene is logical. The merchant's arrival, his probing questions, and the escalating negotiation all make sense within the context of the story.
+
+**Inconsistencies/Areas for Improvement:**
+
+1. **Merchant's Initial Observation (Minor):** The merchant initially observes Seris's tunic knotwork *and* traces the line of her jaw. While not a major issue, this feels slightly redundant and could be streamlined. Focusing on one detail would be more impactful.
+2. **Rhys's Hand Tension (Minor):** Rhys’s hand tightening on a quill is mentioned twice – once as a subtle detail observed by the merchant, and again as a silent signal from Seris to Rhys. While it reinforces his anxiety, it feels a bit repetitive. Consider varying the physical manifestation of his anxiety.
+3. **"Bleeding Stone" - Vague Connection:** The phrase "cave system where the stone bleeds" is evocative, but its connection to the overall plot remains vague. While mystery is good, consider subtly hinting at *why* this cave is significant to the merchant. This could be a minor addition to his dialogue.
+4. **Down Payment Specificity:** Seris demands a significant down payment, but doesn't specify *how* significant. While leaving it open-ended creates tension, a vague range (“enough to cover our expenses and a substantial retainer”) might add more weight to her demand.
+5. **"Alternative Routes" Threat:** The merchant's threat about "alternative routes" feels a little cliché. Consider making the threat more specific to the region or the characters. Perhaps he hints at rivals or dangers that Seris and Rhys are already aware of.
+
+**Overall Assessment:**
+
+**Consistency Check: Mostly Passed.**
+
+The inconsistencies are minor and easily addressed with a few revisions. The scene is well-written, engaging, and effectively builds tension. The characters are consistent, and the worldbuilding is solid.
+
+
+
+**Recommendations:**
+
+* Streamline the merchant's initial observation of Seris.
+* Vary the physical manifestations of Rhys's anxiety.
+* Add a subtle hint about the significance of the "bleeding stone" cave.
+* Consider adding a specific range for the down payment.
+* Make the merchant's threat more specific and relevant.

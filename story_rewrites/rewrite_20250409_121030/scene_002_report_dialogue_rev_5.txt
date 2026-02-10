@@ -1,0 +1,13 @@
+*   **Authenticity & Voice:** Kael’s dialogue feels consistently stern and pragmatic, fitting his established role. Anya’s is good, but occasionally leans towards *telling* us her internal conflict rather than *showing* it through subtext. Her lines about the "old tech" are a bit direct; a more subtle expression of longing or questioning would be more impactful.
+*   **Subtext:** There's a good foundation of subtext with the listening post and Anya's distracted glances. However, it could be pushed further. For example, instead of Anya *looking* at the obscured wall, perhaps she instinctively reaches for a tool she’d need to investigate it, then stops herself, realizing it’s not the time.
+*   **Efficiency & Purpose:** The repetition of "We live in the present" feels a bit heavy-handed. While it reinforces Kael’s philosophy, it’s stated multiple times and slows the momentum. Consider replacing one instance with a non-verbal cue – a dismissive gesture, a tightening of his jaw.
+*   **Flow & Rhythm:** The dialogue is functional, but a bit static. It’s largely reactive, with characters responding to the immediate crisis. Injecting a moment of quiet observation or a shared, unspoken understanding could improve the rhythm.
+*   **Indirect Characterization:** The dialogue effectively shows the dynamic between Kael and Anya – his rigid practicality versus her lingering curiosity. Lira is largely passive, which is fine for her current state, but even a single, strained word could add depth.
+*   **Info-Dumps:** There aren't any blatant info-dumps, but the explanation of *why* Kael distrusts the "pre-Collapse systems" feels a little forced. It could be revealed more organically through a flashback or a brief anecdote.
+
+**Specific suggestions:**
+
+*   **Anya's "old tech" lines:** Instead of directly asking "What if…?", consider: "It's strange, isn’t it? How quickly we dismissed everything that came before."
+*   **Kael's repetition:** Reduce the instances of "We live in the present." Let his actions and expressions convey that message.
+*   **Lira:** Give her a single line, even just a pained "Water…" or a whispered "Hurry…" to establish her agency.
+*   **Listening Post:** Expand on the significance of the flickering. Is it a warning? A signal? A glitch? Hint at its purpose without revealing everything.

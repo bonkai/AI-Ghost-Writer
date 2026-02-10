@@ -1,0 +1,18 @@
+Here's a detailed analysis of the dialogue in Scene 15, Draft 3:
+
+*   **Over-Explanation & Telling, Not Showing:** There's a lot of dialogue *telling* us things rather than letting the characters discover and react organically. For example, Old Man Tiber's entire speech in Phase 3 feels like an info-dump. Instead of *him* explaining the Architects and the failsafe, consider having him react to the energy patterns and *then* Leo or Anya drawing conclusions based on his reactions and fragmented memories. Let the audience piece it together *with* the characters.
+*   **Repetitive Emphasis:** Phrases like "intentional," "escape from," and the constant reiteration of the "static" and "containment" become repetitive. While establishing themes is important, the dialogue feels heavy-handed.
+*   **Leo's Obsession - Lack of Internal Conflict:** Leo's relentless focus feels flat. We *see* he's obsessed, but we don't get much *internal* conflict. A line or two acknowledging the cost of his obsession (e.g., guilt about neglecting Anya, fear of losing himself) would add depth.
+*   **Anya's Role - Passive Observer:** Anya feels largely reactive. While concern for Leo is good, she needs more agency. Perhaps she's the one who notices the initial overlap between realities, or she has a unique skill that helps decipher the data.
+*   **"It wasn't a dream, was it?"** - This line is cliché and doesn’t feel earned. After everything they’ve experienced, a more nuanced reaction would be more effective. Perhaps stunned silence, or a desperate attempt to physically confirm the reality.
+*   **Seeker’s Voice - Static Potential:** The description of Seeker’s voice changing is good, but the actual dialogue remains functional. Give Seeker a *personality*, even a robotic one. A subtle change in phrasing or a hint of urgency could make the voice more compelling.
+*   **Phase 4 - Simultaneous Revelation Feels Rushed:** The simultaneous revelation feels a bit too neat. The shift from "observing" the city to being *within* it could be more gradual and disorienting.
+* **"Prepare for..." - Cliffhanger feels weak:** The abrupt cut-off is a standard cliffhanger, but lacks punch. Consider a final, cryptic line from Seeker that hints at the specific threat posed by the Architects.
+
+
+
+Overall, the dialogue is functional but lacks subtlety and emotional resonance. It prioritizes exposition over character development and organic discovery.
+
+
+
+**Recommendation:** Focus on *showing* rather than *telling*. Cut down on the explanatory dialogue and allow the characters to react and interpret events. Give Anya more agency and internal conflict, and give Seeker a more distinct personality.

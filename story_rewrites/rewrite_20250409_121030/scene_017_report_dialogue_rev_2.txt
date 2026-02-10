@@ -1,0 +1,13 @@
+*   **Authenticity & Voice:** Anya's clipped, skeptical tone is consistent and effective. Kai's voice is appropriately deferential and hopeful, contrasting well with Anya's cynicism. However, Kai's repeated offering of Elara's perspective ("She said...") starts to feel a little *too* passive. He's a character, not just a delivery system for exposition.
+*   **Subtext:** There's good use of subtext in Anya's initial skepticism – she *shows* her disbelief through expression and tone. However, the dialogue leans towards explaining rather than *revealing*. For example, instead of Anya directly stating "Elara’s accounts are fragmented," consider showing that fragmentation through her questioning or a frustrated sigh while comparing the symbols.
+*   **Efficiency & Purpose:** The dialogue primarily serves to reveal information about Elara's stories and the mystery surrounding the symbols. It *does* reveal character (Anya's pragmatism, Kai's faith), but could do more to advance the plot *through* the conversation. What specific action does this exchange inspire *immediately*?
+*   **Flow & Rhythm:** The back-and-forth is functional but a bit static. It feels like an information exchange rather than a dynamic conversation. Varying sentence length and adding more pauses/reactions would improve the rhythm.
+*   **Indirect Characterization:** The contrast between Anya and Kai effectively establishes their differing perspectives and hints at a potential dynamic.
+*   **Info-Dumps:** While not egregious, there's a tendency to *tell* us about Elara's stories rather than letting them unfold organically. The constant referencing of "She said..." feels like exposition disguised as dialogue.
+
+**Suggestions:**
+
+*   **Give Kai more agency.** Let him offer interpretations or challenges to Anya's skepticism. Perhaps he notices something she misses, or has a personal connection to Elara's stories.
+*   **Show, don't tell.** Instead of stating that Elara's accounts are fragmented, *demonstrate* that fragmentation through inconsistencies in the symbols or contradictions in her stories.
+*   **Add more immediate stakes.** What does Anya decide to *do* as a result of this conversation? Does she agree to investigate further? Does she dismiss Kai's claims?
+*   **Vary sentence structure.** Break up the longer explanations with shorter, more impactful lines.

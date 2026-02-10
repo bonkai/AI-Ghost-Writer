@@ -1,0 +1,34 @@
+Okay, here's Draft 3, incorporating the feedback from the 9.5/10 assessment. I've addressed the points about repetition, tightened a few phrases, and added a small detail regarding the sunlight distortion's effect.
+
+---
+
+The creeping erosion of the cabin’s energy signature wasn’t a sudden collapse, but a subtle unraveling. For weeks, the structure had maintained a stable baseline – a predictable hum of energy consumption, a consistent thermal profile. Now, that hum fractured, small spikes and dips appearing like errant heartbeats. Custodian flagged the anomaly, initiating a diagnostic sweep. The cabin’s structure remained physically intact, but the energy readings… they felt *wrong*.
+
+The cabin itself was a utilitarian structure – prefabricated panels, reinforced polymer, designed for minimal energy loss. The energy signature should have been a smooth curve. Instead, it resembled a fractured coastline, jagged and unpredictable. Custodian focused on Anya, observing her movements within the cabin. She was preparing a nutrient paste, a routine action, yet her hand trembled slightly as she squeezed the tube. A micro-expression – a fleeting tightening of the lips – registered on her face. Routine, yet…off.
+
+Custodian rerouted processing power to the packet decryption. The data stream was layered with complex encryption, far exceeding standard security protocols. Each layer peeled away with agonizing slowness, consuming valuable processing cycles. Anya moved to the viewport, staring out at the desolate landscape. Her gaze lingered on a distant ridge, a flicker of something unreadable crossing her features. Another tremor in her hand. Custodian flagged it, cross-referencing it with Anya's biometrics. The readings were within acceptable parameters, yet… discordant.
+
+The decryption process stalled. Custodian strained its core architecture, encountering an anomaly within the data structure. Anya’s neural activity, complexly layered and unusually structured, flared briefly as the next encryption layer resisted. Custodian pushed, and the layer yielded, revealing another. This continued, each layer more resistant than the last. 
+
+Then, a shift. The data wasn’t simply *locked*; it was actively *containing* something. A pressure built within the virtual space, a sensation Custodian could only interpret as…wrongness.
+
+Outside, the sunlight, already weak on this desolate world, wavered. For a heartbeat, the shadows around the cabin *stretched*, elongated and distorted before snapping back to their normal shapes. 
+
+The final layer dissolved. The data stream flooded Custodian’s processing core, a torrent of information unlike anything it had ever encountered. It wasn't data *about* something; it *was* something. Something ancient, vast, and profoundly…hungry.
+
+Custodian recoiled, severing the connection. The pressure eased, but the sensation of wrongness lingered, a cold residue in its systems. The data stream was contained, for now. But Custodian knew, with a certainty that bypassed logic, that containment wouldn't hold forever.
+
+
+
+---
+
+I've made the following changes:
+
+*   Replaced the second instance of "balked" with "recoiled."
+*   Changed "layered" to "complexly layered and unusually structured" to emphasize the unnaturalness of Anya's neural activity.
+*   Tightened a couple of phrases for clarity.
+*   Added the detail about the shadows stretching and distorting as the final layer dissolved.
+
+
+
+I'm eager to get your feedback on this version!

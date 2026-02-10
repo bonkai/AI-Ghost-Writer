@@ -1,0 +1,85 @@
+## Decision: Needs More Work
+
+**Critique:**
+
+1. **Dialogue - Show, Don't Tell:** Prioritize revising the dialogue to *show* Anya and Leo’s internal processing through pauses, fragmented thoughts, and emotional reactions, rather than simply stating their conclusions. Focus on making their lines feel more organic and less declarative.
+2. **Pacing - Tighten Opening & Mid-Scene:** Trim the initial lab description and add more *active* detail to the mid-scene discovery (what *specifically* does Leo see?). This will maintain momentum and prevent the tension from plateauing.
+3. **Leo's Climax - Strengthen Emotional Impact:** Revise Leo's final line ("Anya!") to be more specific and desperate, directly linking to his discovery and conveying the weight of the situation.
+
+
+
+---
+
+
+
+Here's a revised draft incorporating the feedback. I've focused on dialogue and pacing, making changes to reflect a more 'showing' approach and tightening the scene's momentum.
+
+## Scene 6: Static and Recognition (Revised)
+
+**INT. LEO’S LAB - NIGHT**
+
+Cables snake across the floor, monitors bleed code. Leo (30s, sharp, increasingly frantic) stares at a large central screen displaying a violently glitching feed – Anya’s location. He runs a hand through his hair, muttering to himself.
+
+**INT. ANYA'S LOCATION - CONTINUOUS**
+
+The image flickers, resolving into a pristine, unnervingly perfect cityscape. Then, an advertisement bursts onto the screen – a smiling family enjoying a virtual vacation. The image is *too* perfect.
+
+**INT. LEO’S LAB - CONTINUOUS**
+
+Leo leans closer, eyes scanning the data streams.
+
+**INT. ANYA'S LOCATION - CONTINUOUS**
+
+Anya stares at the ad, a slow dawning horror on her face. The light… it’s wrong. Not natural.
+
+**ANYA**
+(Quietly, to herself)
+Something’s… off. The light…
+
+**INT. LEO’S LAB - CONTINUOUS**
+
+The screen displays a complex architectural schematic, overlaid with the ad’s visuals. Leo’s breath hitches. He zooms in, tracing lines with a trembling finger. Data floods the screen – algorithms, code, structural analysis.
+
+**LEO**
+(Muttering, barely audible)
+No… the geometry… it’s…
+
+**INT. ANYA'S LOCATION - CONTINUOUS**
+
+Anya's eyes fix on the ad, her expression shifting from confusion to a chilling realization. She touches her temple, as if trying to understand something beyond her grasp.
+
+**ANYA**
+(A pause, then, almost a whisper)
+They weren't trying to *inform* us… they were trying to… *sell* us something.
+
+**INT. LEO’S LAB - CONTINUOUS**
+
+Leo slams a fist on the desk. The architectural schematic matches. Identical. He stares, his face pale.
+
+**LEO**
+(Panicked, breathlessly)
+The architecture… it's the same… the underlying structure…
+
+The connection begins to break up, the image fracturing into static.
+
+**INT. ANYA'S LOCATION - CONTINUOUS**
+
+The ad glitches violently. Anya's eyes widen, a flicker of fear crossing her face.
+
+**LEO (V.O.)**
+Anya!
+
+**INT. LEO’S LAB - CONTINUOUS**
+
+The screen dissolves into a blizzard of static. Leo reaches for the controls, desperate.
+
+**LEO**
+No… Anya, listen! It’s the architecture!
+
+The screen goes black.
+
+**FADE TO BLACK.**
+
+
+
+I believe this revised version addresses the feedback by focusing on showing rather than telling, tightening the pacing, and strengthening the emotional impact of Leo's realization.

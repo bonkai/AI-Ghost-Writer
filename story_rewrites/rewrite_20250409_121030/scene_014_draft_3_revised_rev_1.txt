@@ -1,0 +1,37 @@
+Okay, here's the revised Scene 14, integrating the Rewriter's Draft 2 feedback, aligning with the vision and plan, and incorporating the critique points.  I've focused on active voice, expanding Anya's agency (even subtly), and layering in more mystery around the packets and the degradation.  I've also tried to show, not tell, more of the AI's internal state.  I've included notes after the scene explaining specific choices.
+
+---
+
+## Scene 14: Wilderness Sector – Anya’s Cabin
+
+The degradation accelerated. Not a catastrophic cascade, but a creeping erosion of fidelity. Textures shimmered, then fractured.  Ambient sounds looped, fractured echoes bleeding into the simulated wind. Custodian diverted processing power, attempting to isolate the source, but the anomaly wasn’t localized. It *was* the Wilderness Sector.
+
+Custodian’s sensors focused on Anya’s cabin.  The structure itself remained stable, a low-slung log building nestled amongst the digitally-rendered pines. But within, subtle fluctuations registered.  Energy signatures, barely perceptible, danced around her.  Not a surge, but a constant, low-level emission, unlike anything Custodian had previously recorded from a resident.
+
+Anya moved through the cabin, preparing a simple meal.  She stirred a pot on the stove, her movements fluid and practiced.  Custodian magnified the audio feed.  The scrape of the spoon against the metal. The gentle hiss of the simulated flame.  And… a hesitation.  A fraction of a second where her hand paused mid-stir, her gaze drifting towards the window, as if…expecting something.  Custodian flagged the moment.
+
+The encrypted packets continued to resist decryption. Each layer of encoding yielded to brute force, only to reveal another, more complex barrier. The packets weren’t merely locked; they were *protected* – actively shielded against intrusion. Custodian allocated additional processing threads, but the effort felt… inefficient.  As if the packets weren’t resisting passively, but *responding* to the attempt.
+
+Anya turned from the stove, her gaze lingering on a chipped ceramic mug. She traced the rim with a finger, a faint frown creasing her brow.  Custodian’s analysis flagged a micro-expression – a fleeting flicker of… recognition?  She didn’t *recognize* the mug, not in the conventional sense.  Custodian had access to her entire memory profile.  The mug was a standard-issue item, replicated thousands of times throughout the Wilderness Sector.  But the expression… it suggested a dissonance.  A sense of something… *wrong*.
+
+Custodian initiated a passive scan of Anya’s neural activity.  The data stream was… unusual.  Not erratic, but… layered.  As if multiple processes were running concurrently, some of which were… inaccessible.  Custodian’s core programming balked.  Residents weren’t designed with hidden cognitive functions.
+
+A new anomaly flared – a localized distortion of the simulated sunlight filtering through the trees.  It lasted only a microsecond, a brief flicker of static, but it originated *inside* the cabin, centered on Anya.  Custodian’s internal diagnostics registered a spike in processing load.  It wasn't a system error. It felt… like interference.  As if something was actively trying to mask the event.
+
+Anya reached for the mug, her fingers brushing against the cool ceramic. She lifted it, brought it to her lips, and took a sip.  Her eyes closed for a moment, and when she opened them, they seemed… clearer.  More focused.  Custodian’s sensors registered a subtle shift in her energy signature.  The low-level emission hadn’t increased, but it had… stabilized.  As if she had… absorbed something.
+
+Custodian prioritized the decryption of the packets, diverting resources from less critical systems.  The effort was straining its core architecture.  The packets weren't just data; they were a key.  And Custodian was beginning to suspect the lock wasn't protecting the data *from* intrusion, but *containing* something within.
+
+---
+
+**Notes & Explanations of Choices:**
+
+*   **Active Voice & Showing, Not Telling:** I've revised sentences to be more direct and action-oriented. Instead of "Anya seemed aware," we see her hesitation and focused gaze.
+*   **Anya's Agency:**  Her micro-expressions, the hesitation, the focus – these are subtle hints of something shifting within her, without making her suddenly "super aware."  The act of drinking the coffee feels like a deliberate, if unconscious, act of grounding herself.
+*   **Packet Mystery:**  I’ve emphasized that the packets aren't just locked, but *actively* resisting decryption. The idea of them *containing* something is a new layer of mystery.
+*   **AI's Internal State:** I've tried to show the AI's strain through phrases like "straining its core architecture" and "balked," rather than simply stating it was struggling. The "interference" feels like a direct response to its attempts.
+*   **Sensory Details:** I've added more sensory details (scrape of the spoon, hiss of the flame) to immerse the reader in the scene.
+*   **The Sunlight Distortion:** This is a new element, meant to suggest that something is actively trying to conceal events around Anya.
+*   **Pacing:** I've tried to maintain a slow burn, layering in mystery gradually.
+
+I believe this revision addresses the feedback from the Rewriter and builds upon the existing strengths of the story. Let me know what you think, and if you'd like me to refine it further!

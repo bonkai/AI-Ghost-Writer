@@ -1,0 +1,15 @@
+*   **Anya's Initial Static Description:** While functional, Anya's description of the static ("less clean...textured") feels a bit too technical and explanatory right away. Consider *showing* her reaction to the difference rather than telling us. Perhaps she pauses, furrows her brow, or adjusts the settings with a specific, telling gesture.
+
+*   **Kael's "Another dry cycle"**: This line feels a bit on-the-nose. It's redundant given the setting and their situation. Consider removing it or having Anya respond to his non-verbal frustration instead.
+
+*   **Anya's Optimism:** The stage direction "felt strained" is doing a lot of work. *Show* this strain in her dialogue. Perhaps a slight tremor in her voice, a pause before speaking, or a less enthusiastic tone than usual.
+
+*   **"Another world?"**: Kael’s line is a very basic reaction. Given the weight of the discovery, consider something more evocative or questioning. "Is that…possible?" or "What are we looking at?" would feel more impactful.
+
+*   **Seeker Dialogue – Repetitive & Flat:** The Seeker’s dialogue is *extremely* repetitive and lacks nuance. While a monotone delivery is intended, the phrasing ("The System is…," repeated multiple times) becomes tiresome. Vary the sentence structure and add subtle hints of desperation beyond just the “undercurrent” Anya detects. Consider using fragmented sentences or pauses to convey urgency.
+
+*   **"The System is everything."**: This line is a cliché and lacks impact. It *tells* us the System is important but doesn’t *show* us why. A more evocative image or a description of what the System *does* would be more effective.
+
+*   **Indirect Characterization Opportunity (Kael):** Kael consistently reacts with suspicion and a readiness for violence (hand on the blade). While consistent, it feels a bit one-note. Perhaps show a moment of vulnerability or curiosity to add depth.
+
+*   **Anya's Sharpness:** Anya’s “sharp” tone is noted but could be *more* present in her actual dialogue. She's the one detecting the urgency; her lines should reflect that proactiveness and perhaps a touch of frustration with the Seeker's vague responses.

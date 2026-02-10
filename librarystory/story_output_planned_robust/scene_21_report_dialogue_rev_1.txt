@@ -1,0 +1,21 @@
+Here's a breakdown of the dialogue in Scene 21, with suggestions for improvement:
+
+*   **Authenticity & Voice:** Marius’s voice is consistently cold and measured, which works well. Seris and Rhys’s voices are a bit flatter. Rhys’s single line is *too* direct and lacks nuance for someone described as dangerous. Seris’s responses, while determined, lean towards stating the obvious rather than revealing internal conflict.
+*   **Subtext:** There’s *some* subtext, primarily in Marius’s veiled threats and observations. However, it could be amplified. Seris's internal thoughts (italicized) are a good start, but more of that needs to *leak* into her spoken dialogue. Instead of *telling* us she’s desperate, show it through a slight tremor in her voice, a hesitation before answering, or a defensive posture.
+*   **Efficiency & Purpose:** The dialogue mostly advances the plot and establishes tension. However, some exchanges feel a little repetitive (e.g., the repeated emphasis on Seris and Rhys having “no secrets”). The focus on *stating* facts (Seris explaining their associates) could be trimmed.
+*   **Flow & Rhythm:** The pacing is generally good, building tension effectively. However, the back-and-forth feels a bit *formal* at times. Real conversations have interruptions, overlapping speech, and moments of silence.
+*   **Clarity vs. Ambiguity:** The meaning is clear, but leaning into ambiguity could heighten the tension. Marius’s pronouncements about the Bloom and forgotten memories are good, but could be even more cryptic.
+*   **Indirect Characterization:** Marius is well-characterized through his dialogue – condescending, controlling, and subtly menacing. Seris and Rhys could benefit from more subtle reveals. For example, Rhys sharpening his axe is a good visual, but his dialogue doesn’t quite *match* that level of intensity.
+*   **Info-Dumps:** The explanation of Seris's associates feels like an info-dump. Consider weaving those details into the conversation more organically. Perhaps Marius could *imply* knowledge of their backgrounds, forcing Seris to defend them.
+
+**Specific Suggestions:**
+
+*   **Rhys:** Instead of "What do you want, Inquisitor?", consider something like: "State your business." or a curt, challenging question that hints at his readiness for a fight.
+*   **Seris’s Lie:** When she says she seeks "the truth," it feels too pat. Add a beat of hesitation, a slight waver in her voice, or a defensive edge to suggest she's not entirely truthful.
+*   **Trim Repetition:** The back-and-forth about secrets feels redundant. Cut some of those lines to create a more streamlined and impactful exchange.
+*   **Show, Don't Tell:** Instead of *telling* us Seris is desperate, *show* it through her physical reactions and subtle shifts in her dialogue.
+*   **Amplify the Fear:** Kaelen's internal thought ("He’s afraid") is good. Let that fear *influence* Marius's dialogue more. Perhaps he becomes more insistent, more threatening, or more desperate to control the situation.
+
+
+
+Overall, the dialogue is solid, but it could be elevated by focusing on subtlety, nuance, and showing rather than telling.

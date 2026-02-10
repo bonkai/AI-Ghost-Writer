@@ -1,0 +1,9 @@
+*   **Elara feels reactive, not engaged.** Her dialogue consists almost entirely of questions prompted by *your* character’s revelations. While understandable given the situation, it makes her feel like a sounding board rather than a participant. Consider giving her a line or two that demonstrates independent thought, even if it’s just skepticism or a request for clarification that isn’t *immediately* prompted by what you say.
+*   **Repetitive phrasing within the internal monologue *bleeds* into dialogue.** The constant reiteration of "ancient," "forgotten," and the idea of "remembering" is strong in the descriptive passages, but it's subtly echoed in the dialogue, making it feel less natural. For example, “I think I built it. A long time ago” feels a little on-the-nose after pages of establishing the ancient, forgotten nature of the glyphs. Could this be implied?
+*   **"These aren't just symbols, Elara. They're… instructions. A framework."** This feels a bit expository. It's *telling* us what the symbols are, rather than *showing* us through your character's actions or reactions. Could you hint at this through a physical interaction with the symbols, or a realization about their function?
+*   **The “I don’t know *what* it is” line is weak.** It's a common trope and doesn't add much. Consider replacing it with something more specific to the experience, or a fragmented thought that hints at the truth.
+*   **Subtext opportunity:** The line "I remember laying the first stone" is powerful, but could be even more impactful if delivered with a specific *tone* or physical reaction that suggests this isn't just a memory, but a deeply ingrained instinct.
+
+
+
+Overall, the dialogue isn't *bad*, but it leans heavily towards exposition and lacks a dynamic interplay between the characters. There's room to deepen Elara’s role and inject more subtext and nuance into your character’s revelations.

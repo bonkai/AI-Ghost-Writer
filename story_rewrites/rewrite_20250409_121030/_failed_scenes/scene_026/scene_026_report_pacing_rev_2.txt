@@ -1,0 +1,8 @@
+*   **Paragraph 1-3:** The opening establishes atmosphere effectively, but the initial exchange between Elara and Rhys feels slightly static. Consider condensing this to immediately establish the mystery.
+*   **Paragraph 4-7:** The discovery of the ambitious power grid and the fused metal *begins* to build tension, but the explanation feels a little *told* rather than *shown*. Jax’s line, while functional, doesn’t contribute much to the rhythm.
+*   **Paragraph 8-12:** The fragmented logs and increasing instability are good pacing. The reveal of “Integration failing” is a solid micro-tension peak.
+*   **Paragraph 13-16:** The shift to organic energy is a strong beat. Rhys' urgency is effective.
+*   **Paragraph 17-20:** The infrared scan and reveal of the network of growths is a visual high point, but the dialogue feels a little repetitive ("What kind of energy?" "Not electrical.").
+*   **Paragraph 21-24:** The reveal of Project Nightingale is well-timed and creates a significant tension spike. The final lines are a strong, chilling conclusion, but the build-up *to* that final line could be slightly more refined. The pacing feels a little rushed in the final two paragraphs. Consider adding a beat of reaction from Elara before the final reveal.
+
+Overall, the scene is well-structured, but the tension arc could be smoothed out by streamlining some of the explanatory dialogue and adding more moments of *reaction* to the discoveries. The ending is strong, but the very final beat feels a little abrupt.

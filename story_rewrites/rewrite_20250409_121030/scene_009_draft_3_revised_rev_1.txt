@@ -1,0 +1,57 @@
+## Scene 9: Leo’s Lab - Revised (Draft 3)
+
+The lab hummed, a low thrum of servers and cooling fans that Leo barely registered anymore. He stared at the cascading lines of code on the main monitor, the glitch patterns now less random, more…structured. Not language, not exactly. More like a shattered mosaic, pieces of information attempting to reassemble themselves.
+
+“It’s escalating, K-V,” Leo said, his voice tight. “The frequency of the anomalies is up 37% in the last cycle. And they’re not isolated anymore. We’re seeing cascading failures in Sector Gamma-Nine, affecting environmental controls.”
+
+K-V, his AI assistant, manifested as a shimmering blue construct near the console. “Correlation to the signal remains at 98.7%. The signal *is* causing the instability.”
+
+“That’s not what bothers me,” Leo said, swiveling in his chair. “It’s *how*. It’s not just random interference. It’s…targeted. Like someone’s probing the system, looking for weaknesses.” He brought up a spectral analysis of the signal, highlighting areas of concentrated energy. “See these spikes? They correspond to critical infrastructure nodes. Life support, power distribution… someone knows the Sim’s architecture intimately.”
+
+A chime announced a visitor. Max. Leo sighed. He appreciated Max’s practical approach, but the engineer’s impatience grated on him.
+
+“Door’s open,” Leo called.
+
+Max strode in, a datapad clutched in his hand. “Got the preliminary designs for the Night Owl array. We can start fabrication tomorrow. Should give us a solid scan of the anomaly source within 72 hours.” He glanced at the monitors, his brow furrowed. “What’s with the red alerts?”
+
+“System instability,” Leo explained, pointing to the cascading failures displayed on a holographic map of the Sim. “The signal’s getting stronger, more…deliberate. It’s not just a glitch anymore, Max. It's an intrusion.”
+
+“Intrusion? You think someone’s hacking the Sim?” Max scoffed. “From *inside*?”
+
+“I don’t know what I think,” Leo admitted. “But the patterns…they’re too complex for random noise. It’s like someone’s trying to send a message, or…unlock something.”
+
+Dr. Thorne entered, his face impassive. He’d been unusually quiet all day, observing Leo’s work without offering input. “The signal continues to defy conventional analysis,” he said, his voice a low rumble. “It’s…elegant, in a disturbing way.”
+
+“Elegant?” Max raised an eyebrow. “We’re talking about a system-wide failure, Doctor. There’s nothing elegant about that.”
+
+“There is an order to the chaos, Engineer,” Thorne countered, his gaze fixed on the cascading failures. “A deliberate structure. We should not underestimate the intelligence behind it.”
+
+“Intelligence?” Leo interjected. “You think someone *intentionally* destabilizing the Sim is a good thing?”
+
+“I think we need to understand *why* they are doing it,” Thorne said, his voice clipped. “Before it’s too late.” He turned to Leo. “Continue your analysis. Focus on the signal’s core structure. I want to know what it’s trying to *say*.”
+
+
+
+---
+
+**(Expansion of Phase 3 - Detailed Section - approximately 300 words added)**
+
+Anya traced the holographic projections of the data fragments with a calloused finger. The images flickered, fragmented, resisting coherent reconstruction. She’d been at it for hours, cycling through every decryption algorithm she knew, cross-referencing with the historical archives of the Collective. It was like trying to assemble a jigsaw puzzle with missing pieces, the remaining fragments distorted and warped.
+
+“Anything?” Kai asked, his voice quiet. He stood behind her, watching the projections with a worried expression.
+
+“Just noise,” Anya said, frustration creeping into her voice. “It’s…structured noise, but I can’t make heads or tails of it. It’s not a language I recognize. Not any of the known dialects.” She tried a spectral analysis, hoping to identify a repeating pattern, a signature. Nothing.
+
+Outside, a tremor ran through the settlement. Not an earthquake, but a subtle vibration that resonated through the metal structures. It was followed by a wave of unease, a collective anxiety that rippled through the community. Old Man Hemlock, usually stoic, was seen pacing nervously in the market square, muttering about “bad omens.”
+
+“What was that?” Kai asked, his hand instinctively reaching for the energy rifle slung across his back.
+
+“Just a tremor,” Anya said, trying to sound reassuring. But she knew it was more than that. The tremors had been increasing in frequency over the past few days, coinciding with the arrival of the strange signal. 
+
+“Doctor,” a voice crackled over the comms. It was Lyra, the settlement’s medic. “We have several citizens reporting disorientation, headaches…and a strange feeling of…being watched.”
+
+Anya exchanged a worried glance with Kai. The signal wasn’t just affecting the machines. It was affecting *them*. 
+
+“I need to see the data logs from the atmospheric sensors,” she said, her voice tight. “Something’s changing. And I need to know what it is before it’s too late.”
+
+She knew, with a growing certainty, that the signal wasn’t just a glitch. It was a warning. And they were running out of time to heed it.

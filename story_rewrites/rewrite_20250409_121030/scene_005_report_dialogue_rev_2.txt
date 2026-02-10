@@ -1,0 +1,15 @@
+*   **Authenticity & Voice:** Kael's dialogue feels consistently pragmatic and wary, fitting his role as the cautious one. Anya's is generally good, but occasionally leans towards exposition ("It’s like looking at something I *should* recognize… but can’t.") instead of *showing* her confusion.
+*   **Subtext:** There's a good start with the "echoes" and fragmented images, hinting at a deeper mystery. However, the dialogue often states the obvious ("And why does it feel… like a warning?"). Consider *implying* the dread instead of stating it.
+*   **Efficiency & Purpose:** Some lines feel redundant. For example, Kael repeatedly points out the Sky-Scavs. Once or twice is sufficient to establish the threat. Anya's explanation of the images ("Old advertisements. For consumer goods.") feels like info-dumping. Show her reaction *to* the images, rather than telling us what they are.
+*   **Flow & Rhythm:** The back-and-forth is functional, but could be more dynamic. The dialogue feels a bit static, lacking quick exchanges or interruptions.
+*   **Clarity vs. Ambiguity:** The core mystery is clear, but the *emotional* impact could be stronger. The dialogue needs to better convey Anya's growing disorientation and dread.
+*   **Indirect Characterization:** Kael's consistent caution reinforces his personality. Anya's focus on the mystery, even while under threat, highlights her driven nature.
+*   **Info-Dumps:** As mentioned above, Anya’s explanation of the images is a prime example. Also, Seeker’s voiceovers sometimes feel like delivering a report rather than contributing to the scene's tension.
+
+**Suggestions:**
+
+*   **Trim repetitive lines:** Reduce Kael's Sky-Scav warnings.
+*   **Show, don't tell:** Replace explanations with reactions. Instead of "It’s like looking at something I *should* recognize… but can’t," try Anya clutching her head and gasping, "I… I almost remember…"
+*   **Increase subtext:** Let the images and Anya’s reactions speak for themselves.
+*   **Vary dialogue rhythm:** Add interruptions, quick exchanges, or moments of silence to create more tension.
+*   **Re-work Seeker’s VO:** Make Seeker’s reports more urgent and integrated into the scene's action.

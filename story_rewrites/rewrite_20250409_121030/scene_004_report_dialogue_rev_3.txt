@@ -1,0 +1,14 @@
+*   **Authenticity & Voice:** Old Man Hemlock’s voice is strong and consistent – appropriately steeped in tradition and fear. Anya’s voice feels *slightly* too assertive given the weight of her secret and the hostile reception. Her initial defensiveness feels a bit quick; a beat of genuine vulnerability before the forced brightness would be more believable. Kael’s line feels a bit… flat. He’s described as troubled, but his dialogue is just a straightforward affirmation.
+*   **Subtext:** The scene relies heavily on direct statements of fear and distrust. While effective, opportunities for subtext are missed. For example, instead of Mara *saying* she’s worried about her daughter, show her subtly shielding her child or glancing nervously at the Seeker. The final stage direction about a “metallic sheen” is *telling* rather than *showing* – this should be subtly hinted at through Anya's actions or the reactions of others.
+*   **Efficiency & Purpose:** The dialogue is mostly functional – it establishes the conflict and the community's anxieties. However, some lines feel repetitive (e.g., multiple reiterations of the danger of the Old Ones). Kael’s line, while supportive, doesn’t *advance* anything.
+*   **Flow & Rhythm:** The back-and-forth is a bit stilted. It feels like each character is delivering a speech rather than engaging in a natural conversation. The pauses are described, but aren’t necessarily *felt* in the dialogue itself.
+*   **Indirect Characterization:** Old Man Hemlock comes across strongly as the antagonist. Anya's internal conflict is hinted at, but could be amplified through her physical reactions and hesitant phrasing.
+*   **Info-Dumps:** The explanations of the Old Ones and their technology are a bit heavy-handed. Consider weaving this information more organically into the conversation or revealing it through flashbacks or other means.
+
+**Suggestions:**
+
+*   **Anya:** Give her more moments of vulnerability. Let her hesitation and fear show through her phrasing and body language *before* she attempts to appear confident.
+*   **Kael:** Give him a line that reveals his internal conflict. Perhaps a question that subtly challenges Anya, or a concerned glance at the Seeker.
+*   **Mara:** Replace her dialogue with a visual cue – a protective gesture towards her child, a whispered concern to her husband.
+*   **Trim:** Cut some of the repetitive statements about the Old Ones.
+*   **Show, Don't Tell:** Replace the “metallic sheen” description with subtle visual cues – a slight coolness to Anya’s touch, a strange reflection in her eyes, a momentary flicker of metal beneath her skin.

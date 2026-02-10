@@ -1,0 +1,14 @@
+*   **Authenticity & Voice:** Rhys’s pauses are good, consistent with his analytical nature. Jax is appropriately terse and focused on security. Elara’s murmured line ("They were reaching for something, weren't they?") feels slightly theatrical; it's a bit *too* poetic for a pragmatic investigator.
+*   **Subtext:** Generally good, but opportunities are missed. The repeated emphasis on “integration failing” is effective, but could be subtly layered with character reactions (a tightening of Elara’s jaw, a frustrated sigh from Rhys) to amplify the tension.
+*   **Efficiency & Purpose:** The dialogue is mostly functional, revealing information and advancing the plot. However, there's some redundancy. For example, stating "They were pushing the boundaries" *and* then Jax saying "A little hubris goes a long way" feels repetitive.
+*   **Flow & Rhythm:** The back-and-forth between the characters feels natural. The pauses are well-placed.
+*   **Clarity vs. Ambiguity:** The core concept is clear, but the implications of Project Nightingale could be teased out more gradually.
+*   **Indirect Characterization:** Good. Rhys’s detailed analysis and Jax’s focus on immediate threats reveal their personalities.
+*   **Info-Dumps:** The explanation of Project Nightingale, while necessary, feels a little rushed. Breaking it up into smaller pieces, revealed through dialogue and observation, would be more effective.
+
+**Specific Suggestions:**
+
+*   **Elara’s Murmur:** Rephrase “They were reaching for something, weren't they?” to something more grounded, like “What were they *trying* to do here?” or “This feels…ambitious, even for them.”
+*   **Redundancy:** Trim either Rhys’s “They were pushing the boundaries” or Jax’s “A little hubris goes a long way.”
+*   **Project Nightingale:** Instead of Rhys delivering a full explanation, have him offer a partial discovery (“I’m getting a match…it’s referencing a Core initiative…Project Nightingale? It was…something about bio-integration?”) and then have Elara or Jax ask clarifying questions.
+*   **Elara's final line:** While dramatic, consider if "They didn’t just fail to integrate it" is the most natural way for Elara to phrase it. Perhaps, "It wasn't just about integration..." or "They weren't trying to *integrate* it..." would flow better.

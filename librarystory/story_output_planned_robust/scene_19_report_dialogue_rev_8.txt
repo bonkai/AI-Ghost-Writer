@@ -1,0 +1,17 @@
+*   **Repetitive Silent Communication:** The scene *heavily* relies on “silent acknowledgment” and “weight of knowing” passing between characters. While a little can be effective, it’s happening almost every other line. Show, don’t tell – let their *actions* and dialogue reveal their understanding/tension, rather than stating it. For example, instead of "a silent acknowledgment of the mountain’s power," show Kaelen subtly adjusting his grip on something, or Seris’s breath hitching.
+
+*   **On-the-Nose Exposition:** Lines like “The Order didn’t just forbid magic. They forbade *remembering*.” feel like direct exposition rather than natural dialogue. Consider *how* Kaelen would organically reveal this information, perhaps through a story or anecdote, or as a reaction to something Seris says.
+
+*   **“Lost how?” – Too Direct:** Seris asking “Lost how?” is a bit flat. Given the established atmosphere and her sensitivity to the mountain’s power, a more evocative question would be stronger. Something like, "What was taken?" or even a non-verbal reaction – a widening of her eyes, a slight shake of the head – could be more impactful.
+
+*   **Kaelen's Breath:** The line “He leaned closer, lowering his voice, his breath warm against her ear” is unnecessary description *interrupting* the dialogue. The intimacy should be conveyed *through* what he says, not described.
+
+*   **Efficiency – Valerius's Role:** The line “He’ll do anything to protect it” feels redundant. It’s implied by him being a “guardian of the forgetting.”
+
+*   **Subtext Opportunity - "This isn't about a rare healing plant, is it?"** This is a good question, but it feels a little *too* quick. Seris is already picking up on the mountain’s power. Perhaps a beat of internal struggle *before* she asks, or a more hesitant phrasing, would make it feel more earned.
+
+*   **Metallic Scent Repetition:** The “metallic tang” is mentioned frequently. While it’s a good atmospheric detail, it’s becoming a crutch. Find other ways to convey tension and the mountain’s influence.
+
+
+
+Overall, the dialogue isn't *bad*, but it's leaning heavily on telling rather than showing, and relies too much on repetitive non-verbal cues and atmospheric descriptions to convey information. It could be significantly strengthened by trimming exposition, allowing for more subtext, and trusting the reader to infer meaning from character actions.

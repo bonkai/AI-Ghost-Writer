@@ -1,0 +1,3 @@
+* **Pacing & Tension:** The scene relies too heavily on exposition, slowing the pace and diminishing tension. Interweave threat and discovery *within* the dialogue, rather than layering it on top.
+* **Dialogue Agency:** Seris is largely passive. Inject more reaction, questioning, and emotional response to make her a more active participant.
+* **Show, Don't Tell:** Reduce info-dumping. Demonstrate the Order’s actions through specific details and Seris’s discoveries, rather than having Hemlock simply explain them.

@@ -1,0 +1,14 @@
+*   **Authenticity & Voice:** Hemlock’s dialogue is consistently strong – cryptic, measured, and fitting for a guardian of forbidden knowledge. Seris's voice is generally good, but occasionally leans towards telling rather than showing. Phrases like "She wouldn't let him think she'd shaken her" are internal thought processes that could be conveyed through action/subtext.
+*   **Subtext:** This scene *leans* into subtext, which is good, but there are opportunities to push it further. The back-and-forth is mostly questions and guarded answers, which is appropriate, but could be made more layered. For example, instead of Seris *saying* she won't let Hemlock think she's shaken, show her deliberately choosing a different aisle, straightening her shoulders, or making a pointed comment about the quality of the bindings.
+*   **Efficiency & Purpose:** The dialogue primarily serves to establish tension and reveal character (Hemlock's guarded nature, Seris's determination). However, some exchanges are slightly repetitive. The constant reiteration of "He knew," "She knew he knew," etc., could be streamlined. Let the *actions* and *expressions* convey that awareness.
+*   **Flow & Rhythm:** The pace is good, building tension effectively. The short exchanges contribute to the feeling of a cautious dance between the characters.
+*   **Clarity vs. Ambiguity:** The meaning is clear, but the ambiguity surrounding Hemlock and the Atheneum is well-maintained.
+*   **Indirect Characterization:** Excellent. The dialogue *and* lack of dialogue reveal a lot about both characters. Hemlock's clipped responses and watchful presence speak volumes.
+*   **Info-Dumps:** There aren't any overt info-dumps, but the internal narration occasionally feels like it's explaining things the reader could infer.
+
+**Specific Suggestions:**
+
+*   **"Did you say something, Initiate?"** This feels a bit on-the-nose. Perhaps a subtle shift in Hemlock's posture or a slight narrowing of his eyes would be more effective.
+*   **Streamline the "knowing" exchanges.** Reduce the number of times it's explicitly stated that one character knows what the other is thinking/feeling.
+*   **Show, don't tell Seris's resolve.** Instead of *saying* she won't let Hemlock think she's shaken, demonstrate it through her actions and body language.
+*   **Consider a more evocative description of the "resonance" Seris feels.** While "cold, ancient, unsettling" is good, leaning into sensory details (a metallic taste, a prickling sensation, a shift in temperature) could heighten the impact.

@@ -1,0 +1,11 @@
+*   **Subtext & Indirect Characterization:** While the scene *implies* a lot, the dialogue is quite direct. Valerius’s lines, especially the loom metaphor, are *telling* rather than *showing* his manipulative nature. Consider replacing some of his pronouncements with questions that *force* Seris to arrive at the same conclusions, revealing his influence through her reactions. For example, instead of "Erased? Or… repurposed?", he could ask, “What if the histories aren’t complete, Initiate?” or “What becomes of a civilization when it doesn't simply *end*?”
+
+*   **Efficiency & Purpose:** Seris stating "This place… feels watched," and "I don’t like it" is somewhat redundant and doesn’t significantly advance the scene. It’s a feeling already conveyed by the description. Trust the atmosphere to do the work.
+
+*   **Voice (Seris):** Seris’s responses are a little flat. Given her instinctual reaction (reaching for the dagger), and the increasingly unsettling environment, her dialogue could reflect more internal tension and apprehension. A slight stammer, a more fragmented sentence structure, or a sharper tone would add depth.
+
+*   **Voice (Valerius):** Valerius’s dialogue is *almost* too polished. It feels theatrical. While he *is* a powerful figure, a touch of subtly, a more conversational tone masking his intent, would make him more chilling. He doesn’t need to *sound* like a villain; he needs to *feel* like one.
+
+*   **Clarity vs. Ambiguity:** The final paragraph is internal monologue, which is effective, but the dialogue leading up to it could be tweaked to heighten the ambiguity. The “Escort the Initiate…” line feels abrupt and a little cliché. Perhaps a more indirect dismissal, or a seemingly benign request that feels subtly threatening, would be more effective.
+
+*   **Info-Dump Potential:** The reveal of Valerius’s true nature relies heavily on Seris’s internal understanding. While internal thought is fine, ensure the dialogue *builds* to that understanding organically. Don’t let Seris’s realization feel like a sudden leap.

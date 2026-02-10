@@ -1,0 +1,11 @@
+*   **Kael's Dialogue is Sparse:** Kael's lines are *very* short and mostly reactions. While this establishes a stoic personality, it risks making him feel underdeveloped. Consider giving him a slightly longer, more reflective line or two to hint at his past or internal thoughts, especially after witnessing the hologram.
+*   **"We need to keep this quiet" - Cliché:** This line, while functional, feels a bit overused in sci-fi/action scenarios. Consider a more unique way to convey the need for secrecy, perhaps focusing on the potential consequences if the wrong people find out.
+*   **Repetitive Internal Monologue (Leo):** Leo’s internal monologue is *extremely* repetitive in emphasizing the strangeness and danger. Phrases like “something extraordinary,” “something dangerous,” and variations of “shouldn’t exist” appear frequently. Trim these and *show* the danger/strangeness through specific details rather than telling us.
+*   **Leo's Resonance - Too Sudden:** The "strange resonance, a flicker of recognition" feels abrupt and unexplained. Leo has been purely analytical until now. A little more build-up to this emotional response would make it more believable. Perhaps hint at a programming quirk or a long-dormant subroutine being activated.
+*   **Anya's Question - Lacks Specificity:** Anya asks "What system?" after the fragmented message. While logical, it's a bit generic. Could she ask something more specific based on the context of the fragmented message, even if she’s only grasping at straws?
+*   **"Feels old" - Vague Description:** Kael stating it "feels old" is a weak descriptor. While it conveys his unease, it doesn't provide much information. Consider a more evocative description tied to his experiences or knowledge.
+*   **Indirect Characterization Opportunity (Kael):** Kael running a hand through his hair is good, but consider *why* he's agitated. Is it fear? Regret? A memory triggered by the hologram? Subtly hinting at this would add depth.
+
+
+
+Overall, the dialogue is functional and conveys the necessary information, but it could be significantly improved by adding more nuance, specificity, and subtext. It leans towards telling rather than showing in places.

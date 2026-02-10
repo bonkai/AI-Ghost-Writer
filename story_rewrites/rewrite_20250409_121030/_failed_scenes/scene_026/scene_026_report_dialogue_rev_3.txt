@@ -1,0 +1,13 @@
+*   **Authenticity & Voice:** The dialogue is functional but leans towards exposition. Rhys and Jax's lines, particularly, feel like they're *reporting* information rather than *reacting* to it. Their voices feel somewhat interchangeable.
+*   **Subtext:** Opportunities are missed for internal reactions to be *shown* through dialogue. Elara’s final line is strong, but the build-up relies heavily on her internal scanning and the description of the glow. A beat of silence is noted, but doesn’t translate to tension *within* the dialogue itself.
+*   **Efficiency & Purpose:** While the dialogue advances the plot, it often does so directly. For example, Rhys immediately identifying the energy as organic is convenient. Consider having him deduce it through a process, or express uncertainty initially.
+*   **Flow & Rhythm:** The back-and-forth is a bit stilted. It feels like each character speaks only when they have a piece of information to deliver. More natural conversation would include acknowledgements, questions prompted by emotion, or brief exchanges that don’t directly push the plot.
+*   **Indirect Characterization:** The dialogue doesn’t strongly reveal personality or relationships. We know Elara is observant and analytical, but that's demonstrated through narration, not *how* she speaks.
+*   **Info-Dumps:** The explanation of Project Nightingale, while necessary, feels rushed and delivered as a straightforward data dump. Consider breaking it up, having Elara piece it together from fragmented logs, or having Rhys express skepticism initially.
+
+**Suggestions:**
+
+*   **Give characters more distinct voices.** What are their quirks? How do they react under pressure?
+*   **Replace some direct statements with questions or observations.** Instead of "They were trying to integrate something...", try "The logs mention integration failures…what were they trying to connect?"
+*   **Show, don't tell.** Instead of "Elara stared into the darkness...", have her dialogue reflect her fear or apprehension.
+*   **Add moments of non-essential conversation.** A brief exchange about the environment or a shared memory could humanize the characters and make the dialogue feel more natural.

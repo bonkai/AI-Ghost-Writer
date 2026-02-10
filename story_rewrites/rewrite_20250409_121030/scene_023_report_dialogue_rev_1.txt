@@ -1,0 +1,15 @@
+*   **Authenticity & Voice:** Generally good, but leans towards *telling* rather than *showing* character through dialogue. Elara consistently sounds like she's delivering exposition rather than reacting naturally. Bram's pragmatic voice is well-established, but Kael feels a bit flat – his motivation for going ("I want to see this SimuLife") is weak and doesn’t feel earned.
+*   **Subtext:** Limited. The dialogue is very direct. Opportunities are missed for characters to reveal their fears, doubts, or hidden agendas *through* what they don’t say or how they say things. Anya, especially, could benefit from more internal conflict expressed subtly.
+*   **Efficiency & Purpose:** Mostly efficient, but some lines are redundant. For example, Elara repeatedly emphasizes the dangers and the stories – it’s understood. The dialogue serves to reveal information and move the plot forward, but it could do so with more nuance.
+*   **Flow & Rhythm:** The back-and-forth is a bit stilted. It feels like each character is waiting for their turn to speak rather than engaging in a dynamic conversation. The rebuttals are very immediate, lacking natural pauses or reactions.
+*   **Clarity vs. Ambiguity:** Clarity is high, perhaps *too* high. The characters state their positions very explicitly. A little ambiguity could create more tension and intrigue.
+*   **Indirect Characterization:** Limited. The dialogue mostly *tells* us who these characters are (pragmatic, cautious, determined) rather than *showing* us through their interactions.
+*   **Info-Dumps:** Elara is a significant source of info-dumps. Her lines often read like historical lectures. Consider weaving her knowledge into reactions or questions rather than having her deliver it directly.
+
+**Specific suggestions:**
+
+*   **Elara:** Rewrite her lines to be more reactive and less expository. Instead of *telling* us the stories, have her *refer* to them in response to events or Anya’s suggestions ("This reminds me of the tales…").
+*   **Kael:** Give him a stronger motivation. Perhaps he’s seeking proof to disprove the elders’ warnings, or he’s driven by curiosity about lost technology.
+*   **Anya:** Show her internal conflict. Instead of simply stating her determination, hint at her fear or the weight of responsibility.
+*   **Bram:** Good voice, but his shift from dismissing the idea to volunteering feels abrupt. Add a beat or a line to show his reasoning.
+*   **Trim:** Cut redundant lines, especially those where characters simply restate what’s already been established.

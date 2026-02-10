@@ -1,0 +1,10 @@
+*   **Repetitive Internalization:** The constant phrasing of "Anya felt/understood/saw" is becoming tiring. While establishing the direct link is important, it’s happening *every* time. Vary the sentence structure. Instead of "Anya saw the city…", try "The city unfolded before her, teeming with life…" or simply *show* the experience through her reactions and descriptions.
+*   **K-V's Voice:** K-V's responses are *very* expository, even for a direct neural link. The italicized statements ("*Theoretical to us…*", "*Analysis indicates…*") feel like K-V is narrating to the reader *through* Anya, rather than communicating directly *with* her. Subtlety is key. Can some of this information be conveyed through visual cues in the simulation itself? Or through Anya’s internal deductions?
+*   **"What does that mean?" – Overuse:** Anya asks “What does that mean?” and variations too frequently. It’s a natural reaction, but it's becoming a crutch. Consider having her *try* to interpret the message herself, even if she's wrong, before asking K-V. This demonstrates her intelligence and agency.
+*   **Dialogue Tags:** While not egregious, the constant use of "Anya asked," "K-V intoned," etc. is adding to the feeling of being *told* rather than *shown*. Sometimes, action beats or context can replace the tags entirely.
+*   **"Beware the Silence" – Impact:** The warning is delivered directly by K-V. It's a strong line, but loses some punch. Consider having Anya *discover* the message within the simulation—perhaps etched into a structure, or spoken by a ghostly figure.
+*   **Final Moments – Lost Opportunity:** The final lines are mostly internal panic. While understandable, a single, desperate question from Anya (“K-V? K-V, respond!”) before the screen goes black could heighten the tension.
+
+
+
+Overall, the dialogue isn’t *bad*, but it’s leaning heavily on exposition and direct communication. It needs more subtlety, indirect characterization, and opportunities for Anya to be proactive in her interpretation of events.

@@ -1,0 +1,7 @@
+## Decision: Needs More Work
+
+**Critique (3 points):**
+
+1. **Dialogue Variety:** Break the predictable question/K-V imprint pattern. Explore internal monologue for Anya, and subtle shifts in K-V’s ‘voice’ (even within its robotic delivery) to convey more nuance.
+2. **Show, Don't Tell:** Reduce instances of stating how Anya *feels*. Instead, *show* her reactions through body language, internal thoughts, and actions.
+3. **Pacing Refinement:** Smooth transitions between action, internal reaction, and K-V’s analysis. Allow moments of silence to amplify tension and avoid rushing through key reveals.

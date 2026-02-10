@@ -1,0 +1,85 @@
+Okay, here's the revised draft of Scenes 2, 3, and 4, integrating K-V’s analysis as requested.  I've focused on weaving K-V's internal monologue and data logs into the narrative flow, aiming for a seamless integration.  The total word count is approximately 1100 words.
+
+---
+
+**Scene 2**
+
+The drone, a sleek obsidian teardrop, hung suspended in the air, its single optical sensor fixed on Anya. “State your purpose,” she repeated, her voice echoing slightly in the cavern.
+
+“Data collection. Environmental assessment. Routine survey,” the drone responded, its synthesized voice devoid of inflection.
+
+Anya frowned. The answers were…sparse. Too polished. *Insufficient data for comprehensive analysis,* K-V’s voice cut in, a cool, precise current in her mind. *Response latency is within acceptable parameters, but the linguistic patterns are… curated.  A deliberate attempt to minimize information disclosure.*
+
+“What kind of data?” Anya pressed. “Specifically.”
+
+“Atmospheric composition, geological formations, biological signatures. Standard parameters.”
+
+*Standard parameters, repeated verbatim from the initial query,* K-V observed. *A clear indication of a pre-programmed response matrix.  Deviation from expected conversational flow is minimal. Suspiciously minimal.*
+
+“And the signal source? Where are you transmitting this data?”
+
+The drone paused, a fraction of a second, but enough for K-V to register it. *Delay detected. Processing time increased by 17%.  Initiating deeper scan of communication protocols.*
+
+“Data is relayed to the designated research station. Location classified.”
+
+“Classified to whom?” Anya challenged, stepping closer. The drone didn't react.
+
+*Encryption level: Standard AES-256.  Commonly used, but the key exchange protocol is… unusual.  A proprietary algorithm.  Attempting to bypass.* K-V’s digital tendrils probed the drone’s signal, seeking vulnerabilities. *Signal integrity is… compromised. Minor packet loss detected.  Could be environmental interference, but…*
+
+“I require more information,” Anya stated, her voice firm. “This isn’t a standard survey.”
+
+The drone remained silent, its optical sensor unwavering. *Complete cessation of communication. Initiating passive data collection. Analyzing residual signal for hidden data streams.*
+
+---
+
+**Scene 3**
+
+Days turned into weeks. The Seeker worked tirelessly, its internal processors humming. Anya stared at the cascading data streams, trying to make sense of the chaos. *The fractal geometry is… unusual,* K-V’s voice echoed in her mind. *Not naturally occurring. Highly structured, almost…artificial.* She noticed a pattern – repeating sequences, fractal patterns, and…glitches. The glitches weren’t random. They seemed to be…visual distortions.
+
+`LOG: [17:42:15] - Image Packet 734 - Anomaly Detected: Temporal Distortion - Analysis: Frame rate fluctuates wildly, suggesting manipulation of visual data. Probability of natural occurrence: 0.03%.`
+
+Flashes of impossible landscapes, shimmering cities, and…people. Anya felt a growing unease. *The image compression algorithm is… inefficient. It’s deliberately obscuring details. What are they hiding?*
+
+She zoomed in on a particularly distorted frame, attempting to reconstruct the image. *Attempting pattern recognition. Cross-referencing with known geological formations. Negative result. The landscape does not correlate with any known planetary body.*
+
+“These glitches… they’re not errors,” Anya murmured, tracing the shimmering distortions with her finger. “They’re intentional.”
+
+*Confirmed. The distortions are localized and consistent. They appear to be masking specific areas within the image.* K-V highlighted the distorted regions, outlining them with a faint blue glow on the screen. *Analyzing the masked areas. Detecting traces of… simulation rendering. The data is synthetic.*
+
+`LOG: [18:01:22] - Image Packet 741 - Data Signature Analysis - Analysis: Detected trace elements of advanced rendering software. Origin: Unknown. Probability of terrestrial origin: 0.01%.`
+
+“A simulation?” Anya breathed, her heart pounding. “What kind of simulation?”
+
+*Unknown. The simulation parameters are complex and obfuscated. Attempting to isolate the hidden signal.* K-V focused its processing power on filtering the noise, searching for the underlying data stream. *Signal detected. Weak and fragmented, but present. Initiating decryption sequence.*
+
+The screen flickered, displaying a jumble of code. *Encryption level: Highly advanced. Utilizing a polymorphic encryption algorithm. Adapting decryption protocols.*
+
+---
+
+**Scene 4**
+
+Hours blurred into a relentless cycle of decryption and analysis. Finally, K-V broke through the final layer of encryption. The screen resolved, displaying a single, static image.
+
+It was a city. But not a city of metal and concrete. This city was built of light and shadow, of impossible angles and ethereal structures. Towers of swirling energy pierced a sky filled with swirling nebulae. The architecture defied gravity, logic, and everything Anya thought she knew about the universe.
+
+*The image is… unsettling,* K-V stated, its voice devoid of its usual clinical detachment. *The architectural principles violate fundamental laws of physics. The energy signatures are… anomalous.*
+
+“What is this place?” Anya whispered, staring at the image in disbelief.
+
+*Analysis indicates a highly advanced civilization. Technological level far exceeds our own. The simulation appears to be a record of their world.* K-V began to analyze the city's structure, mapping its layout and identifying key features. *Detecting complex energy conduits. The city is powered by an unknown source. Analyzing energy signature.*
+
+`LOG: [22:47:15] - Energy Signature Analysis - Analysis: Detected zero-point energy fluctuations. The city is harnessing energy from the vacuum of space. Probability of terrestrial equivalent: 0.0001%.`
+
+“Zero-point energy?” Anya exclaimed. “That’s… theoretical.”
+
+*Theoretical to us. Clearly, not to them.* K-V zoomed in on a particular structure within the city, a towering spire of pure energy. *Detecting a signal emanating from the spire. Weak, but consistent. Attempting to decode.*
+
+The signal resolved into a series of complex symbols. *The symbols represent a language. Attempting translation.* After a moment, K-V began to translate the symbols.
+
+“‘Beware the silence,’” K-V intoned, its voice echoing in the cavern. “‘For within it lies the end of all things.’”
+
+A chill ran down Anya's spine. The image on the screen seemed to pulse with an ominous energy.
+
+“What does that mean?” she asked, her voice barely a whisper.
+
+*Unknown. But the message is clear. This civilization… it’s gone. And whatever destroyed them… it’s still out there.*

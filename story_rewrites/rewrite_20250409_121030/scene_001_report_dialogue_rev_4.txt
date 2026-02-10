@@ -1,0 +1,10 @@
+*   **Repetitive Dialogue:** The exchange "Report" / "All systems nominal. No anomalies detected" happens *twice*. This feels very robotic and doesn't advance anything. Consider condensing this, or having Leo ask a more specific question the second time, prompting a slightly different response.
+*   **Infuriatingly Calm Voice:** The description of the synthesized voice as "infuriatingly calm" is good *characterization*, but the voice itself is too passive. It *tells* us Leo is frustrated, but doesn’t *show* it through the dialogue. Perhaps the voice could have a slight delay, a subtle monotone shift, or even a programmed response that *attempts* to soothe Leo but comes across as dismissive.
+*   **Leo's Internal State & Dialogue:** Leo is experiencing significant internal turmoil, but his dialogue remains very controlled and direct. While this fits his character’s desire for efficiency, it feels a bit flat. Consider adding moments where his control slips – a clipped tone, a slight hesitation, a more emotionally charged question.
+*   **Lack of Subtext:** Most of the dialogue is purely functional. There's little room for subtext or implied meaning. Even a simple question like “What was that?” could be layered with Leo's fear or confusion.
+*   **'Status Report' feels unnatural:** The opening "Status report" feels a bit too formal, even for a character striving for efficiency. A more natural phrasing might be "System check," or even just silence followed by an internal scan.
+*   **Show, Don't Tell (Feeling):** Leo repeatedly *tells* us he's feeling something ("It felt… personal," "It felt like a phantom limb"). Consider *showing* this through his actions and subtle shifts in his dialogue rather than stating it directly.
+
+
+
+Overall, the dialogue is functional but lacks depth and nuance. It serves the plot but doesn’t fully reveal character or build tension in a compelling way. It needs more layering and subtlety.

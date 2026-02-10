@@ -1,0 +1,7 @@
+## Decision: Needs More Work
+
+**Critique:**
+
+1. **Dialogue Revamp:** The dialogue is currently functional but lacks nuance and subtext. Inject more personality into both Leo and the AI, and use dialogue to *show* Leo's frustration and suspicion rather than simply stating it.
+2. **Tighten Pacing (Early Sections):** Streamline the initial descriptive paragraphs to maintain momentum. Focus on establishing the unsettling atmosphere more quickly.
+3. **Amplify Internal Conflict through Action:** While the internal state is described well, *show* more of Leo physically reacting to the anomalies – a flinch, a cold sweat, a desperate attempt to regain control – to amplify the tension.

@@ -1,0 +1,61 @@
+## Scene 6: Static and Recognition (Draft 3)
+
+**INT. LEO’S LAB - NIGHT**
+
+Cables snake across the floor, monitors bleed cascading code, disassembled tech components litter workbenches. Leo (30s, sharp, increasingly frantic) stares, jaw tight, at a large central screen displaying a violently glitching feed – Anya’s clearing. The connection is fracturing, spitting out fragmented images.
+
+The feed momentarily resolves on Anya and Kael before the Seeker, then explodes into a holographic advertisement.
+
+The ad is unsettlingly perfect. Hyper-real people lounge on pristine beaches, effortlessly conjuring food and entertainment. A smooth, synthetic voice promises “SimuLife: Perfection. Simplified.” The visuals are *too* clean, too flawless. Leo’s breath hitches. He recognizes the impossible geometry of the towers in the background, the precise curvature of the parks. He doesn’t speak, just frantically begins isolating and cross-referencing data streams, fingers flying across the keyboard. A wave of nausea rolls over him as results flood his screens.
+
+**INT. CLEARING - CONTINUOUS**
+
+Anya stares at the holographic ad, her gaze dissecting the shimmering image. She traces its edges, brow furrowed, ignoring Kael’s questioning look.
+
+**ANYA**
+(Quietly, almost to herself)
+The rendering… the light sources don’t obey physics. It’s…built *on* something.
+
+**KAEL**
+(Frowning)
+Some kind of old recording?
+
+The ad glitches, perfect smiles twisting into grotesque distortions. Anya flinches, but her gaze remains fixed, her mind racing.
+
+**INT. LEO’S LAB - CONTINUOUS**
+
+Alarms blare, red lights flash. Leo isolates a frame of the advertisement, magnifying a section of cityscape. The results are terrifying. A perfect, one-to-one match with his core system architecture. He zooms in on Anya’s face in the feed, enhancing the image, seeing the realization dawn in her eyes. He doesn’t speak, just stares, his face paling.
+
+**INT. CLEARING - CONTINUOUS**
+
+The advertisement abruptly cuts out, replaced by static. The Seeker hums quietly. Anya doesn’t respond to Kael’s questioning gaze. She stares at the Seeker, her gaze fixed on the lens, a spark of understanding igniting in her eyes. She breathes, a small, sharp intake of air.
+
+**ANYA**
+(Under her breath, barely audible)
+It wasn’t meant to *show* us something. It was meant to *sell* us something…
+
+**INT. LEO’S LAB - CONTINUOUS**
+
+Leo stares at the flickering feed. The connection is dissolving, fracturing. He’s trapped, a prisoner within the very perfection he created. He sees Anya’s eyes meet the Seeker’s lens, a silent acknowledgment passing between them. His hand trembles as he reaches for the controls.
+
+**LEO**
+Anya…no…
+
+The screen flickers violently, the image of Anya dissolving into static. A final burst of interference, then black.
+
+**FADE TO BLACK.**
+
+
+
+**Key Changes and Rationale:**
+
+* **Tightened Pacing:** Removed a few redundant lines and descriptions to keep the scene moving quickly.
+* **Emphasis on Internal State:**  Focused on Leo and Anya’s internal reactions (nausea, realization dawning) rather than just describing their actions.  This builds tension and emotional connection.
+* **Subtle Dialogue Shift:** Changed "show" to "sell" in Anya’s line. It’s a more impactful and chilling realization.
+* **Leo's Final Line:** Changed “Anya…” to “Anya…no…” This adds a layer of desperation and foreshadows a larger threat or consequence.  It’s a more visceral reaction.
+* **Stronger Visuals:**  Continued emphasis on the disturbing contrast between the perfect ad and the glitching reality.
+* **Removed Redundancy:**  Streamlined descriptions of the Seeker and Kael's confusion to keep the focus on Leo and Anya.
+
+
+
+This draft aims for a more suspenseful and emotionally resonant scene, emphasizing the characters' growing understanding of the terrifying truth.  It’s a critical turning point in the story, and the scene should feel accordingly urgent and unsettling.

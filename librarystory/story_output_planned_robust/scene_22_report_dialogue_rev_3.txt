@@ -1,0 +1,12 @@
+*   **Repetitive Emotional Signposting:** The dialogue relies heavily on stating emotions ("fear," "dread," "anger," "chilling," "bitter laugh") rather than *showing* them through action and subtext. For example, instead of "Seris gasped, stumbling back a step," consider a more visceral reaction that *implies* fear.
+*   **Kaelen's Voice:** Kaelen’s delivery is almost *entirely* exposition. It feels like a data dump. Consider how to weave this information into reactions to Seris and Rhys’ questions, or through fragmented, evocative imagery instead of complete sentences. The constant “*…*” is becoming noticeable and weakens the impact.
+*   **Rhys' Role:** Rhys often feels like a sounding board for Seris. His questions are logical but lack a distinct voice or emotional investment beyond concern for Seris. Give him more agency and internal reaction. What does *he* make of the information?
+*   **"What does that even mean?"** This line is used twice (or a very close variation). It's a weak placeholder for genuine confusion or a more insightful question.
+*   **Overuse of Questions:** The scene is driven by a *lot* of questions. While questioning is natural, it starts to feel interrogative rather than conversational. Consider replacing some questions with observations or internal monologues.
+*   **Deliberately Forgotten - Echoing:** The phrase "deliberately forgotten" is repeated several times. While thematic, it's becoming heavy-handed. Find synonyms or rephrase to avoid repetition.
+*   **Indirect Characterization Opportunity:** Valerius is mentioned, and Seris feels betrayed. Explore this more subtly. A fleeting physical reaction when his name is mentioned, or a brief, pointed thought, would be more impactful than simply stating she feels betrayed.
+*   **Show, Don't Tell (Emotional State):** Instead of "Seris stared at the words, dread washing over her," try describing the physical sensations of dread – a coldness in her limbs, a tightening in her chest, a difficulty breathing.
+
+
+
+Overall, the dialogue is functional in moving the plot forward, but it lacks nuance and emotional depth. It would benefit from more subtext, stronger character voices, and a reduction in direct exposition.
